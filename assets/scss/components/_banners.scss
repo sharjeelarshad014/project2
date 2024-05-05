@@ -7,20 +7,23 @@
 
  
     &-content {
-
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
         h1{
             @include fontCalcSize(60, 34);
             color: $white;
-            font-weight: 700;
+            font-weight: 600;
             line-height: 1.2;
-            letter-spacing: 2px;
             margin: 0 0 20px 0;
             text-transform: uppercase;
         
             span{
-                border-radius: 25px 0px;
+                border-radius: 5px;
                 background: $Pri-gred;
-                padding: 5px 10px 14px;
+                padding: 5px 10px ;
                 line-height: 1;
                 display: inline-flex;
             }

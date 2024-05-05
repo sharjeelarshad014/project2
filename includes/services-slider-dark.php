@@ -1,4 +1,4 @@
-<section class="compliance-sec bg-detail" style="background: url(/assets/img/thumbnails/grid-thumb.jpg);">
+<section class="compliance-sec bg-detail" style="background: url(/junaid1/assets/img/thumbnails/grid-thumb.jpg);">
 		<div class="container">
 			<div class="heading text-center mb-50" data-aos="fade-up">
 				<h3 class="cl-white">Why Choose Us For App Development?</h3>
@@ -7,7 +7,7 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6 md-20">
 					<div class="crafting-mob text-center" data-aos="flip-left">
-						<img src="/assets/img/mix/grid-img-2.png" alt="">
+						<img src="/junaid1/assets/img/mix/grid-img-2.png" alt="">
 					</div>
 				</div>
 				<div class="col-lg-6">

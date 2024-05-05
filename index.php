@@ -3,35 +3,26 @@
 <head>
 	<meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/brand-info.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
 	<title>Home | <?php echo "$brandName";?></title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/style.php"); ?></head>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/style.php"); ?></head>
 
 <body>
 	<!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/header.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/header.php"); ?>
 	<div class="banner">
 		<div class="shape pos-bg">
-			<img src="/assets/img/bg/home-bg.png" alt="">
+			<img src="/junaid1/assets/img/bg/home-bg.png" alt="">
 		</div>
 		<div class="container h-100">
-			<div class="row h-100 align-items-center">
-				<div class="col-lg-7">
-					<div class="banner-content">
-						<h1>Embark on Digital Excellence with Our <span>Mobile App</span> Development Expertise</h1>
-						<a href="/about.php" class="btn btn-white">About Us</a>
-					</div>
-				</div>
-				<div class="col-lg-5">
-					<div class="banner-img img-100" data-aos="fade-left">
-						<img src="/assets/img/bg/mob-img.png" alt="">
-					</div>
-				</div>
+			<div class="banner-content h-100 text-center">
+				<h1>BECOME NOTICEABLE WITH THE BEST APP <span>DEVELOPMENT SERVICES</span></h1>
+				<a href="/about.php" class="btn btn-white">About Us</a>
 			</div>
 		</div>
 	</div>
@@ -48,7 +39,7 @@
 				<div class="col-lg-6">
 					<div class="position-relative">
 					<div class="form-abs">
-							<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+							<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 						</div>
 						<form action="#" class="form">
 						<h4 class="cl-white text-center mb-1">Let's Create Together!</h4>
@@ -92,13 +83,13 @@
 				</div>
 				<div class="col-lg-10">
 					<ul class="brand-logos">
-						<li><img src="/assets/img/mix/brand-1.png" alt=""></li>
-						<li><img src="/assets/img/mix/brand-2.png" alt=""></li>
-						<li><img src="/assets/img/mix/brand-3.png" alt=""></li>
-						<li><img src="/assets/img/mix/brand-4.png" alt=""></li>
-						<li><img src="/assets/img/mix/brand-5.png" alt=""></li>
-						<li><img src="/assets/img/mix/brand-6.png" alt=""></li>
-						<li><img src="/assets/img/mix/brand-7.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-1.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-2.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-3.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-4.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-5.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-6.png" alt=""></li>
+						<li><img src="/junaid1/assets/img/mix/brand-7.png" alt=""></li>
 					</ul>
 				</div>
 			</div>
@@ -115,9 +106,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mob-testi.png" alt="">
+								<img src="/junaid1/assets/img/mix/mob-testi.png" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -136,9 +127,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi2.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi2.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -157,9 +148,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi3.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi3.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -178,9 +169,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi4.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi4.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -199,9 +190,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi5.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi5.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -220,9 +211,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi6.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi6.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -241,9 +232,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi7.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi7.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -262,9 +253,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi8.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi8.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -283,9 +274,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi9.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi9.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -304,9 +295,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi10.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi10.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -325,9 +316,9 @@
 						<div class="col-lg-6 align-self-center">
 							<div class="testi-img">
 								<div class="shape pos-4">
-									<img src="/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 								</div>
-								<img src="/assets/img/mix/mobile-testi11.jpg" alt="">
+								<img src="/junaid1/assets/img/mix/mobile-testi11.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
@@ -346,9 +337,9 @@
 		</div>
 	</section>
 	
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/slider-redefined.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/slider-redefined.php"); ?>
 
-	<section class="stripe-3 bg-detail flex-sec" style="background: url(/assets/img/thumbnails/thumb-2.jpg);">
+	<section class="stripe-3 bg-detail flex-sec" style="background: url(/junaid1/assets/img/thumbnails/thumb-2.jpg);">
 		<div class="container">
 			<div class="heading text-center" data-aos="fade-up">
 				<h3>The Pixel Appy Symphony of <br> Mobile App Development</h3>
@@ -393,16 +384,16 @@
 			</div>
 		</div>
 		<div class="box-img" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000">
-			<img src="/assets/img/mix/box-img.png" alt="">
+			<img src="/junaid1/assets/img/mix/box-img.png" alt="">
 		</div>
 	</section>
 
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/mob-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/project-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/tabs-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/comp-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/slider-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/footer.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/includes/scripts.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/mob-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/project-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/tabs-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/comp-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/slider-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/footer.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/scripts.php"); ?>
 </body>
 </html>

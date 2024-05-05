@@ -1,6 +1,6 @@
 <section class="stripe">
 	<div class="shape pos-1">
-		<img src="/assets/img/icons/bg-shape.svg" alt="" class="js-tosvg">
+		<img src="/junaid1/assets/img/icons/bg-shape.svg" alt="" class="js-tosvg">
 	</div>
 	<div class="container">
 	<div class="heading text-center mb-50" data-aos="fade-up">
@@ -91,7 +91,7 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="sldier-img img-100" data-aos="flip-up" data-aos-duration="2000">
-					<img src="/assets/img/mix/mob-slide.png" alt="">
+					<img src="/junaid1/assets/img/mix/mob-slide.png" alt="">
 				</div>
 			</div>
 		</div>
