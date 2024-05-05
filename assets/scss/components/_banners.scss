@@ -1,0 +1,87 @@
+.banner {
+    padding: 100px 0 50px;
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+    background: $black;
+
+ 
+    &-content {
+
+        h1{
+            @include fontCalcSize(60, 34);
+            color: $white;
+            font-weight: 700;
+            line-height: 1.2;
+            letter-spacing: 2px;
+            margin: 0 0 20px 0;
+            text-transform: uppercase;
+        
+            span{
+                border-radius: 25px 0px;
+                background: $Pri-gred;
+                padding: 5px 10px 14px;
+                line-height: 1;
+                display: inline-flex;
+            }
+        }
+        p {
+            font-size: 14px;
+            font-weight: 400;
+            margin: 0 0 25px 0;
+            color: $white;
+
+            @media(max-width:575px) {
+                font-size: 12px;
+            }
+        }
+    }
+    &.inner{
+        height: 75vh;
+        .banner-content{
+            text-align: center;
+        }
+        .pos-bg{
+          top: 0;
+          img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          }
+        }
+    }
+    .banner-img{
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    @media (max-width: 1600px) {
+        .banner-img{
+            width: 70%;
+        }   
+    }
+
+    @media(max-width:991px) {
+        height: auto;
+        padding: 120px 0 70px;
+        .banner-img{
+            margin: 40px auto 0;
+            width: 50%;
+        }
+
+        &-content {
+            margin: 0;
+        }
+
+        &.inner {
+            height: auto;
+        }
+    }
+    @media (max-width: 575px) {
+        .banner-img{
+            width: 80%;
+        }
+    }
+
+  
+}

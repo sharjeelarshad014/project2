@@ -1,0 +1,87 @@
+html,
+body {
+    @include fontCalcSize(16, 13);
+    font-family: $primaryFont;
+    color: $black;
+    font-weight: 400;
+}
+
+p {
+    @include fontCalcSize(16, 13);
+    color: $iGray1;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0 0 20px 0;
+    font-family: $secondaryFont;
+}
+
+
+h3 {
+    @include fontCalcSize(40, 20);
+    color: $iBlack;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 20px 0;
+    text-transform: capitalize;
+}
+
+h4 {
+    font-size: 36px;
+    color: $black;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 20px 0;
+
+
+}
+
+h5 {
+    @include fontCalcSize(30, 16);
+    color: $black;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 20px 0;
+
+}
+h6 {
+    @include fontCalcSize(22, 14);
+    color:$iBlack;
+    font-weight: 700;
+    line-height: normal;
+    font-family: $secondaryFont;
+    margin: 0 0 20px 0;
+
+}
+.s-font{
+    font-family: $secondaryFont
+}
+.heading {
+    h3 {
+        @include fontCalcSize(50, 30);
+        color: $iBlack;
+        font-weight: 700;
+        line-height: normal;
+        margin: 0 0 20px 0;
+    }
+    p{
+        color: $iGray1;
+    }
+    &.mb-50{
+        margin-bottom: 50px;
+    }
+    &.mb-40{
+        margin-bottom: 40px;
+    }
+    &.mb-30{
+        margin-bottom: 30px;
+    }
+    @media(max-width:991px){
+        margin-bottom: 25px !important;
+    }
+}
+
+.f {
+    &-12 {
+        font-size: 12px;
+    }
+}

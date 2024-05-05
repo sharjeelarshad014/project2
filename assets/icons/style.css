@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'xicons';
+  src:  url('fonts/xicons.eot?pfl9ur');
+  src:  url('fonts/xicons.eot?pfl9ur#iefix') format('embedded-opentype'),
+    url('fonts/xicons.ttf?pfl9ur') format('truetype'),
+    url('fonts/xicons.woff?pfl9ur') format('woff'),
+    url('fonts/xicons.svg?pfl9ur#xicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ic-"], [class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'xicons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-35:before {
+  content: "\e91e";
+}
+.ic-36:before {
+  content: "\e91f";
+}
+.ic-23:before {
+  content: "\e900";
+}
+.ic-24:before {
+  content: "\e901";
+}
+.ic-25:before {
+  content: "\e902";
+}
+.ic-26:before {
+  content: "\e903";
+}
+.ic-27:before {
+  content: "\e904";
+}
+.ic-28:before {
+  content: "\e905";
+}
+.ic-29:before {
+  content: "\e906";
+}
+.ic-30:before {
+  content: "\e907";
+}
+.ic-31:before {
+  content: "\e908";
+}
+.ic-32:before {
+  content: "\e909";
+}
+.ic-33:before {
+  content: "\e90a";
+}
+.ic-34:before {
+  content: "\e90b";
+}
+.ic-18:before {
+  content: "\e90c";
+}
+.ic-1:before {
+  content: "\e90d";
+}
+.ic-2:before {
+  content: "\e90e";
+}
+.ic-3:before {
+  content: "\e90f";
+}
+.ic-4:before {
+  content: "\e910";
+}
+.ic-5:before {
+  content: "\e911";
+}
+.ic-6:before {
+  content: "\e912";
+}
+.ic-7:before {
+  content: "\e913";
+}
+.ic-8:before {
+  content: "\e914";
+}
+.ic-9:before {
+  content: "\e915";
+}
+.ic-10:before {
+  content: "\e916";
+}
+.ic-11:before {
+  content: "\e917";
+}
+.ic-12:before {
+  content: "\e918";
+}
+.ic-13:before {
+  content: "\e919";
+}
+.ic-14:before {
+  content: "\e91a";
+}
+.ic-15:before {
+  content: "\e91b";
+}
+.ic-16:before {
+  content: "\e91c";
+}
+.ic-17:before {
+  content: "\e91d";
+}
