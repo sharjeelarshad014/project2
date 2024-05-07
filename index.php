@@ -22,7 +22,10 @@
 		<div class="container h-100">
 			<div class="banner-content h-100 text-center">
 				<h1>BECOME NOTICEABLE WITH THE BEST APP <span>DEVELOPMENT SERVICES</span></h1>
-				<a href="/about.php" class="btn btn-white">About Us</a>
+				<div class="row">
+					<a href="/about.php" style="margin:0px 10px" class="btn btn-white">About Us</a>
+					<a href="/about.php" style="margin:0px 10px" class="btn btn-white">About Us</a>
+				</div>
 			</div>
 		</div>
 	</div>

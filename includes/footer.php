@@ -6,7 +6,7 @@
 					<div class="col-lg-3">
 						<div class="logo-widget">
 							<a href="/">
-								<img src="/junaid1/assets/img/brand/logo.png" alt="">
+								<img src="/project2/assets/img/brand/logo.png" alt="">
 							</a>
 							<p>Pixelappy is your go-to destination for all your app development needs. With a team of experienced and innovative developers, we specialize in creating custom mobile applications tailored to your specific requirements. Whether you're looking for a sleek and intuitive user interface, robust functionality, or seamless integration across platforms, Pixelappy delivers top-notch solutions that exceed expectations.</p>
 							<ul class="social-link">

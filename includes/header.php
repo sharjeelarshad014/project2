@@ -17,7 +17,7 @@
 	}
 </style>
 <!-- <div class="loaderscreen js-loaderscreen"></div> -->
-<header class="header js-fixed">
+<header class="header sticky-header">
 		<div class="fflex">
 			<div class="logo-area">
 				<a href="https://clients.codexwriter.com/qem/" class="logo">

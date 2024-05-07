@@ -2,10 +2,10 @@
 	<div class="container">
 		<div class="comp-wrap">
 			<ul class="comnp-logos">
-				<li data-aos="zoom-in-up" data-aos-duration="500"><img src="/junaid1/assets/img/mix/comp-1.png" alt=""></li>
-				<li data-aos="zoom-in-up" data-aos-duration="800"><img src="/junaid1/assets/img/mix/comp-2.png" alt=""></li>
-				<li data-aos="zoom-in-up" data-aos-duration="1100"><img src="/junaid1/assets/img/mix/comp-3.png" alt=""></li>
-				<li data-aos="zoom-in-up" data-aos-duration="1400"><img src="/junaid1/assets/img/mix/comp-4.png" alt=""></li>
+				<li data-aos="zoom-in-up" data-aos-duration="500"><img src="/project2/assets/img/mix/comp-1.png" alt=""></li>
+				<li data-aos="zoom-in-up" data-aos-duration="800"><img src="/project2/assets/img/mix/comp-2.png" alt=""></li>
+				<li data-aos="zoom-in-up" data-aos-duration="1100"><img src="/project2/assets/img/mix/comp-3.png" alt=""></li>
+				<li data-aos="zoom-in-up" data-aos-duration="1400"><img src="/project2/assets/img/mix/comp-4.png" alt=""></li>
 			</ul>
 			<div class="comp-btn" data-aos="fade-up">
 				<a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>

@@ -8,19 +8,19 @@
 				<div class="col-lg-10">
 					<div class="slide-wrap">
 						<div class="shape pos-2">
-							<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+							<img src="/project2/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 						</div>
 						<div class="shape pos-3">
-							<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
+							<img src="/project2/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
 						</div>
 						<div class="row justify-content-center align-items-center carousel-navfor">
 							<div class="col-lg-6">
 								<div class="js-img-slide">
 									<div>
 										<div class="slide-img">
-										     <a href="/junaid1/assets/img/bg/2.mp4" data-fancybox>
+										     <a href="/project2/assets/img/bg/2.mp4" data-fancybox>
     											<video id="videoPlayer">
-                                                    <source src="/junaid1/assets/img/bg/2.mp4" type="video/mp4">
+                                                    <source src="/project2/assets/img/bg/2.mp4" type="video/mp4">
                                                   </video>
     											</a>
 											<div class="slide-ic" data-aos="zoom-in" data-aos-duration="1000">
@@ -30,9 +30,9 @@
 									</div>
 									<div>
 										<div class="slide-img">
-										     <a href="/junaid1/assets/img/bg/1.mp4" data-fancybox>
+										     <a href="/project2/assets/img/bg/1.mp4" data-fancybox>
     											<video id="videoPlayer">
-                                                    <source src="/junaid1/assets/img/bg/1.mp4" type="video/mp4">
+                                                    <source src="/project2/assets/img/bg/1.mp4" type="video/mp4">
                                                   </video>
     											</a>
 											<div class="slide-ic" data-aos="zoom-in" data-aos-duration="1000">

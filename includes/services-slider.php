@@ -7,7 +7,7 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6 md-20">
 					<div class="crafting-mob md-20 text-center" data-aos="flip-left">
-						<img src="/junaid1/assets/img/mix/gird-mob.png" alt="">
+						<img src="/project2/assets/img/mix/gird-mob.png" alt="">
 					</div>
 				</div>
 				<div class="col-lg-6">
