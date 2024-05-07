@@ -14,7 +14,7 @@
 	<!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
-	<?php //include($_SERVER['DOCUMENT_ROOT']."/project2/includes/header.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/project2/includes/header.php"); ?>
 	<div class="banner">
 		<div class="shape pos-bg">
 			<img src="/project2/assets/img/bg/home-bg.png" alt="">

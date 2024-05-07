@@ -16,7 +16,7 @@
 		}
 	}
 </style>
-<div class="loaderscreen js-loaderscreen"></div>
+<!-- <div class="loaderscreen js-loaderscreen"></div> -->
 <header class="header js-fixed">
 		<div class="fflex">
 			<div class="logo-area">
