@@ -14,7 +14,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="project-img" data-aos="zoom-out-left">
-							<img src="/project2/assets/img/mix/pro-mob.png" alt="">
+							<img src="/junaid1/assets/img/mix/pro-mob.png" alt="">
 						</div>
 					</div>
 				</div>

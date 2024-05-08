@@ -505,7 +505,7 @@ function initIntlInput(target) {
 				nationalMode: true,
 				separateDialCode: true,
 				autoPlaceholder: 'polite',
-				utilsScript: "/project2/assets/js/utils.js",
+				utilsScript: "/junaid1/assets/js/utils.js",
 			});
 			setTimeout(function(){
 				var changeCountry = $e.intlTelInput("getSelectedCountryData");

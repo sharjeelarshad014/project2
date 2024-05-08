@@ -1,4 +1,4 @@
-<section class="stripe-3 mt-5 cta-sec bg-detail" style="background: url(/project2/assets/img/thumbnails/cta-thumb.jpg);">
+<section class="stripe-3 mt-5 cta-sec bg-detail" style="background: url(/junaid1/assets/img/thumbnails/cta-thumb.jpg);">
     <div class="container">
         <div class="cta-content">
             <h3>Kickstart Your App Development with Us</h3>

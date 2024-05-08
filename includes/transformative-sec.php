@@ -1,4 +1,4 @@
-<section class="stripe unleash-sec bg-detail" style="background: url(/project2/assets/img/thumbnails/unleash-thumb.png);">
+<section class="stripe unleash-sec bg-detail" style="background: url(/junaid1/assets/img/thumbnails/unleash-thumb.png);">
 		<div class="overlay unleash-bg"></div>
 		<div class="container">
 			<div class="row align-items-center">
@@ -14,7 +14,7 @@
 				</div>
 				<div class="col-lg-7">
 					<div class="unleash-img img-100" data-aos="zoom-in-left">
-						<img src="/project2/assets/img/mix/unleash-machine.png" alt="">
+						<img src="/junaid1/assets/img/mix/unleash-machine.png" alt="">
 					</div>
 				</div>
 			</div>

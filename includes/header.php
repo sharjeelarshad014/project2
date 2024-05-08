@@ -17,7 +17,7 @@
 	}
 </style>
 <!-- <div class="loaderscreen js-loaderscreen"></div> -->
-<header class="header sticky-header">
+<header class="header js-fixed">
 		<div class="fflex">
 			<div class="logo-area">
 				<a href="https://clients.codexwriter.com/qem/" class="logo">
@@ -99,7 +99,7 @@
 				</ul>
 			</div>
 			<div class="btn-area">
-				<a href="javascript:;" class="btn btn-primary btn-white">Investor Centre <i class="fa-solid fa-arrow-right"></i></a>
+				<a href="javascript:;" class="btn btn-primary">Investor Centre <i class="fa-solid fa-arrow-right"></i></a>
 			</div>
 			
 			<div class="nav-hamburger js-menubtn">

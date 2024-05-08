@@ -355,7 +355,7 @@ select {
 .btn {
     @include fontCalcSize(20, 13);
     font-family: $secondaryFont;
-    font-weight: 700;
+    font-weight: 600;
     padding: 10px 33px;
     border-radius: 4px;
     text-align: center;
