@@ -22,6 +22,32 @@
 		<div class="container h-100">
 			<div class="banner-content h-100 text-center">
 				<h1>BECOME NOTICEABLE WITH THE BEST APP <span>DEVELOPMENT SERVICES</span></h1>
+
+
+
+				<!-- <div class="container"> -->
+					
+						<div class="">
+							<ul class="brand-logos">
+								<li><img src="/project2/assets/img/mix/brand-1.png" alt=""></li>
+								<li><img src="/project2/assets/img/mix/brand-2.png" alt=""></li>
+								<li><img src="/project2/assets/img/mix/brand-3.png" alt=""></li>
+								<li><img src="/project2/assets/img/mix/brand-4.png" alt=""></li>
+								<li><img src="/project2/assets/img/mix/brand-5.png" alt=""></li>
+								<li><img src="/project2/assets/img/mix/brand-6.png" alt=""></li>
+								<li><img src="/project2/assets/img/mix/brand-7.png" alt=""></li>
+							</ul>
+						</div>
+					
+				<!-- </div> -->
+
+
+
+
+
+
+
+
 				<div class="row">
 					<a href="/about.php" style="margin:0px 10px" class="btn btn-white">About Us</a>
 					<a href="/about.php" style="margin:0px 10px" class="btn btn-white">About Us</a>
