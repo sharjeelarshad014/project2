@@ -239,6 +239,9 @@ function acordianInit() {
     });
 }
 
+
+
+
 function checkFieldval(element) {
     $(element).each(function(i, index) {
         inputValue = $(index).val().length;
