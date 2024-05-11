@@ -17,24 +17,19 @@
 						<div class="slide-wrap get-in-touch">
 						<form class="contact-form row">
 							<div class="form-field col-lg-6">
-								<input id="name" class="input-text js-input" type="text" required>
-								<label class="label" for="name">Name</label>
+								<input id="name" class="input-text js-input" type="text" required placeholder="Name">
 							</div>
 							<div class="form-field col-lg-6 ">
-								<input id="email" class="input-text js-input" type="email" required>
-								<label class="label" for="email">E-mail</label>
+								<input id="email" class="input-text js-input" type="email" required placeholder="Email">
 							</div>
 							<div class="form-field col-lg-6 ">
-								<input id="company" class="input-text js-input" type="text" required>
-								<label class="label" for="company">Company Name</label>
+								<input id="company" class="input-text js-input" type="text" required placeholder="Company">
 							</div>
 							<div class="form-field col-lg-6 ">
-								<input id="phone" class="input-text js-input" type="text" required>
-								<label class="label" for="phone">Contact Number</label>
+								<input id="phone" class="input-text js-input" type="text" required placeholder="Phone">
 							</div>
 							<div class="form-field col-lg-12">
-								<input id="message" row="3" class="input-text js-input" type="text" required>
-								<label class="label" for="message">Message</label>
+								<input id="message" row="3" class="input-text js-input" type="text" required placeholder="Message">
 							</div>
 							<div class="form-field col-lg-12">
 								<input class="submit-btn" type="submit" value="Submit">

@@ -9,71 +9,6 @@
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/style.php"); ?>
-	<style>
-		
-		.get-in-touch {
-		/* max-width: 800px; */
-		/* margin: 50px auto;
-		position: relative; */
-		padding: 20px;
-
-		}
-
-		.contact-form .form-field {
-		position: relative;
-		margin: 25px 0;
-		}
-		.contact-form .input-text {
-		display: block;
-		width: 100%;
-		height: 36px;
-		border-width: 0 0 2px 0;
-		border-color: black;
-		font-size: 18px;
-		line-height: 26px;
-		font-weight: 400;
-		}
-		.contact-form .input-text:focus {
-		outline: none;
-		}
-		.contact-form .input-text:focus + .label,
-		.contact-form .input-text.not-empty + .label {
-		-webkit-transform: translateY(-24px);
-				transform: translateY(-24px);
-		}
-		.contact-form .label {
-		position: absolute;
-		left: 20px;
-		bottom: 11px;
-		font-size: 14px;
-		line-height: 26px;
-		font-weight: 550;
-		color: black;
-		cursor: text;
-		transition: -webkit-transform .2s ease-in-out;
-		transition: transform .2s ease-in-out;
-		transition: transform .2s ease-in-out, 
-		-webkit-transform .2s ease-in-out;
-		}
-		.contact-form .submit-btn {
-		display: inline-block;
-		background-color: #000;
-		background-image: linear-gradient(125deg,#a72879,#064497);
-		color: #fff;
-		text-transform: uppercase;
-		letter-spacing: 2px;
-		font-size: 16px;
-		padding: 8px 16px;
-		border-radius: 12px;
-		border: none;
-		width:200px;
-		cursor: pointer;
-		}
-
-
-	</style>
-
-
 </head>
 
 <body>
@@ -120,7 +55,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="stripe exprerience-sec" style="background-image: url(./assets/img/bg/bg-section2.jpg);">
+	<section class="stripe exprerience-sec">
 		<div class="container">
 			<div class="row justify-content-between">
 				<div class="col-lg-6 align-self-center">

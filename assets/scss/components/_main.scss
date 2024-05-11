@@ -2404,6 +2404,24 @@ br {
     }
 }
 
+.box-sec {
+    .box-style {
+        box-shadow: 0px 0px 20px -13px #000;
+        border-radius: 20px;
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+
+    .blog-slider__content {
+        height: 200px;
+        overflow: auto;
+    }
+
+    .blog-inner {
+        margin-bottom: 20px;
+    }
+}
+
 .blog-slider__img {
     flex: 0 0 auto;
     width: 90px;
@@ -2560,5 +2578,24 @@ br {
 
     button.owl-dot {
         outline: 0;
+    }
+}
+
+.contact-form {
+    .input-text{
+        &::placeholder{
+            @include fontCalcSize(14, 12);
+            font-weight: 700;
+            color: $black;
+        }
+    }
+}
+
+.banner-form {
+    &.slide-wrap {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        border: 12px solid #675ded;
     }
 }

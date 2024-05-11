@@ -1,16 +1,17 @@
 
-<section>
+<section class="stripe">
     <div class="container">
-        <div class="img-container"></div>
-        <div class="faq">
-            <h2>FAQ</h2>
-            <div class="row p-4 align-items-center justify-content-between">
-                <div class="col-5">
+        <div class="top-heading text-center">
+            <h3>FAQ</h3>
+        </div>
+         <div class="faq">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-5">
                     <div class="project-img" data-aos="zoom-out-left">
                         <img src="/junaid1/assets/img/mix/cta-img.avif" alt="">
                     </div>
                 </div>
-                <div class="col-7">
+                <div class="col-lg-7">
                     <div class="accor-row">
                         <div class="q-a js-accor-link" data-accor-id="accord-1" data-accor-name="accordian">
                             <div class="q-wrapper">

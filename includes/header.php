@@ -31,10 +31,10 @@
 			<div class="navigation desktop">
 				<ul>
 					<li class="pl-0">
-						<a href="https://clients.codexwriter.com/qem/about.php">About Us</a>
+						<a href="/junaid1/about-us">About Us</a>
 					</li>
 					<li>
-						<a href="javascript:;">ESG</a>
+						<a href="/junaid1/industries/">Industries</a>
 					</li>
 					<li>
 						<a href="javascript:;">Project</a>
