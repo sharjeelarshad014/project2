@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     bottom: -6px;
-    left: 5px;
+    left: 50%;
+    transform: translateX(-50%);
     position: absolute;
 
    &.sty1{
@@ -16,16 +17,17 @@
             width: 40px;
             height: 8px;
             // border-radius: 50%;
-            background-color: $iGray1;
+            background-color: $iGray5;
             margin: 0 5px;
             opacity: 1;
             padding: 0;
+            border-radius: 6px;
 
         }
 
         &.slick-active {
             button {
-                background-color: $iSecondary;
+                background-color: $iPrimary;
                 opacity: 1;
                 outline: none;
             }

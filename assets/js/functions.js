@@ -36,14 +36,7 @@ function doOnReady() {
 	AOS.init();
 	browserDetect();
 	addClassIOS();
-	initCarousel('.js-carousel', 1, 1, false, false ,false, false, false);
-	initCarousel('.js-slide', 1, 1, false, true, false, false, false);
-	initCarousel('.js-mob', 5, 1, true, true, false, true, true);
-	initCarousel('.js-health', 3, 1, false, true, false, false, false);
-	initCarousel('.js-vertical', 1, 1, false, true, true, false, false);
-	initCarousalNavFor('.js-img-slide', 1, '.js-text-slide', 1, false, false, false, false);
-	initCarousalNavFor('.js-vertical-ic', 3, '.js-vertical-content', 1, false, true, true, true);
-	initCarousalNavFor('.js-pointer-content', 1, '.js-pointer-ic', 3, true, true);
+	initCarousel('.js-carousel', 3, 1, false, true ,false, false, false);
 	// NavFor(target, slideShowFor, targetNavFor, slideShowNav, centerStatus, verticalStatus) 
 	headerFixed();
 	parallaxeffect('.js-parallax');
@@ -238,9 +231,6 @@ function acordianInit() {
         $this.parents('.accor-row').next('.accor-'+targetId).removeClass('is-active');
     });
 }
-
-
-
 
 function checkFieldval(element) {
     $(element).each(function(i, index) {

@@ -40,6 +40,13 @@
                 font-size: 12px;
             }
         }
+        &.sty1{
+            align-items: flex-start;
+
+            .comp-btn{
+                margin-top: 15px;
+            }
+        }
     }
     .banner-img{
         width: 60%;
@@ -78,6 +85,7 @@
             width: 80%;
         }
     }
-
-  
+    &.inner{
+        padding: 150px 0 100px;
+    }
 }
