@@ -8,73 +8,7 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/style.php"); ?>
-	<style>
-		
-		.get-in-touch {
-		/* max-width: 800px; */
-		/* margin: 50px auto;
-		position: relative; */
-		padding: 20px;
-
-		}
-
-		.contact-form .form-field {
-		position: relative;
-		margin: 25px 0;
-		}
-		.contact-form .input-text {
-		display: block;
-		width: 100%;
-		height: 36px;
-		border-width: 0 0 2px 0;
-		border-color: black;
-		font-size: 18px;
-		line-height: 26px;
-		font-weight: 400;
-		}
-		.contact-form .input-text:focus {
-		outline: none;
-		}
-		.contact-form .input-text:focus + .label,
-		.contact-form .input-text.not-empty + .label {
-		-webkit-transform: translateY(-24px);
-				transform: translateY(-24px);
-		}
-		.contact-form .label {
-		position: absolute;
-		left: 20px;
-		bottom: 11px;
-		font-size: 14px;
-		line-height: 26px;
-		font-weight: 550;
-		color: black;
-		cursor: text;
-		transition: -webkit-transform .2s ease-in-out;
-		transition: transform .2s ease-in-out;
-		transition: transform .2s ease-in-out, 
-		-webkit-transform .2s ease-in-out;
-		}
-		.contact-form .submit-btn {
-		display: inline-block;
-		background-color: #000;
-		background-image: linear-gradient(125deg,#a72879,#064497);
-		color: #fff;
-		text-transform: uppercase;
-		letter-spacing: 2px;
-		font-size: 16px;
-		padding: 8px 16px;
-		border-radius: 12px;
-		border: none;
-		width:200px;
-		cursor: pointer;
-		}
-
-
-	</style>
-
-
-</head>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/style.php"); ?></head>
 
 <body>
 	<!--[if lte IE 9]>
@@ -121,382 +55,444 @@
 		</div>
 	</section>
 	<section class="stripe exprerience-sec" style="background-image: url(./assets/img/bg/bg-section2.jpg);">
-	<div class="container">
-				<div class="row justify-content-between">
-					<div class="col-lg-6 align-self-center">
-						<div class="section-content">
-							<h3 class="sty1 cl-white"><strong>WE ARE ONE OF THE MOST INNOVATIVE APP DEVELOPMENT COMPANIES OF THE USA</strong></h3>
-							<p class="cl-white">Hoff & Mazor has helped more than 500 companies in strengthening their brand awareness by creating apps with innovative, and attractive UI/UX Designs. We design customized strategies as per clients' needs. Customer satisfaction fuels us to keep going.</p>
-							<div class="btn-wrap mt-2">
-								<a href="javscript:;" class="btn btn-primary">Know More</a>
-							</div>
+		<div class="container">
+			<div class="row justify-content-between">
+				<div class="col-lg-6 align-self-center">
+					<div class="section-content">
+						<h3 class="sty1 cl-white"><strong>WE ARE ONE OF THE MOST INNOVATIVE APP DEVELOPMENT COMPANIES OF THE USA</strong></h3>
+						<p class="cl-white">Hoff & Mazor has helped more than 500 companies in strengthening their brand awareness by creating apps with innovative, and attractive UI/UX Designs. We design customized strategies as per clients' needs. Customer satisfaction fuels us to keep going.</p>
+						<div class="btn-wrap mt-2">
+							<a href="javscript:;" class="btn btn-primary">Know More</a>
 						</div>
 					</div>
-					<div class="col-lg-6 align-self-center">
-						<div class="row">
-							<div class="col-lg-3">
-								<div class="img-wrap">
-									<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-									<div class="img-caption">
-										<h5>500+</h5>
-										<p>Clients Powered</p>
-									</div>
+				</div>
+				<div class="col-lg-6 align-self-center">
+					<div class="row">
+						<div class="col-lg-3">
+							<div class="img-wrap">
+								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+								<div class="img-caption">
+									<h5>500+</h5>
+									<p>Clients Powered</p>
 								</div>
 							</div>
-							<div class="col-lg-3">
-								<div class="img-wrap">
-									<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-									<div class="img-caption">
-										<h5>TOP 4%</h5>
-										<p>Developer Recruitment Process</p>
-									</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="img-wrap">
+								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+								<div class="img-caption">
+									<h5>TOP 4%</h5>
+									<p>Developer Recruitment Process</p>
 								</div>
 							</div>
-							<div class="col-lg-3">
-								<div class="img-wrap">
-									<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-									<div class="img-caption">
-										<h5>10+</h5>
-										<p>Years of Collective Experience</p>
-									</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="img-wrap">
+								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+								<div class="img-caption">
+									<h5>10+</h5>
+									<p>Years of Collective Experience</p>
 								</div>
 							</div>
-							<div class="col-lg-3">
-								<div class="img-wrap">
-									<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-									<div class="img-caption">
-										<h5>5M+</h5>
-										<p>Downloads by Cilent Customers</p>
-									</div>
+						</div>
+						<div class="col-lg-3">
+							<div class="img-wrap">
+								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+								<div class="img-caption">
+									<h5>5M+</h5>
+									<p>Downloads by Cilent Customers</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+		</div>
 	</section>
+
+	<section class="stripe services-sec">
+		<div class="container">
+			<div class="row justify-content-between">
+				<div class="col-lg-6 align-self-center">
+					<div class="section-content">
+						<h3>Services We Offer</h3>
+						<p>Our clients love us because of our love for mobiles. We are pioneers in the app development industry. Some of our core expertise in app development includes:</p>
+						<div class="comp-btn text-left aos-init aos-animate" data-aos="fade-up">
+						<a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>
+						<a href="javascript:;" class="btn btn-transparent">Live Chat</a>
+					</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="image-wrap">
+						<img src="/junaid1/assets/img/mix/services-img.avif" alt="">
+					</div>
+				</div>
+			</div>
+
+		<div class="row">
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-globe"></i></span>
+					</div>
+					<h3 class="title">Mobile App Development</h3>
+					<p class="description">Our mobile app development services are aimed at providing an intuitive app specially designed as per clients’ needs. Our team of professional developers has many years of experience in crafting niche-specific apps.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-rocket"></i></span>
+					</div>
+					<h3 class="title">IOS App Development</h3>
+					<p class="description">The iOS app development services at Hoff & Mazor include attractive UI/UX designs, implementation, QA, and integration of apps for iOS-supporting devices. Our iOS app developers are experienced in creating apps for different niches.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-globe"></i></span>
+					</div>
+					<h3 class="title">Android App Development</h3>
+					<p class="description">Our Android development services comprise of design, development, and enhancement of mobile apps supported by all Android OS versions. Hoff & Mazor aims to provide a seamless experience to clients.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-rocket"></i></span>
+					</div>
+					<h3 class="title">Mobile App Prototype</h3>
+					<p class="description">Before delivering the final project, we create a mobile app prototype to receive suggestions and ideas to improvise the app. Our team of professionals sit with the client to discuss creative ideas.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-rocket"></i></span>
+					</div>
+					<h3 class="title">MVP App Development</h3>
+					<p class="description">In our MVP App Development services we deliver you the app with core functionalities so that you can test it out in your target market and improvements, if any, can be made.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-rocket"></i></span>
+					</div>
+					<h3 class="title">Games App Development</h3>
+					<p class="description">Today, the gaming industry is one of the most thriving industries in the technology world. Get your gaming app developed by the best game app development company worldwide. Book your appointment!</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-rocket"></i></span>
+					</div>
+					<h3 class="title">NFT App Development</h3>
+					<p class="description">The team of developers at Hoff & Mazor are specialized in developing and designing NFT app development as per the market standards. We understand the market dynamics and design NFT apps for clients accordingly.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-6">
+				<div class="serviceBox">
+					<div class="service-icon">
+						<span><i class="fa fa-rocket"></i></span>
+					</div>
+					<h3 class="title">Machine Learning App Development</h3>
+					<p class="description">The designers at Hoff & Mazor leave no stone unturned when it comes to creating apps on the latest technologies such as Machine Learning. We offer comprehensive ML app development services to satisfy our client's hunger for innovation.</p>
+					<a href="#" class="read-more">Read More</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="stripe partner-sec">
+		<div class="container">
+			<div class="top-heading text-center mb-5">
+				<h3>WE PARTNER WITH TOP BRANDS</h3>
+				<p>Hoff & Mazor has a partnership with these leading enterprise technology brands to deliver an innovative and seamless experience to our clients.</p>
+			</div>
+			<ul class="list-style">
+				<li>
+					<div class="section-image">
+						<img src="/junaid1/assets/img/mix/partner1.avif" alt="">
+					</div>
+				</li>
+				<li>
+					<div class="section-image">
+						<img src="/junaid1/assets/img/mix/partner2.avif" alt="">
+					</div>
+				</li>
+				<li>
+					<div class="section-image">
+						<img src="/junaid1/assets/img/mix/partner3.avif" alt="">
+					</div>
+				</li>
+				<li>
+					<div class="section-image">
+						<img src="/junaid1/assets/img/mix/partner4.avif" alt="">
+					</div>
+				</li>
+				<li>
+					<div class="section-image">
+						<img src="/junaid1/assets/img/mix/partner5.avif" alt="">
+					</div>
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<section class="stripe tab-sec">
+		<div class="container">
+			<div id="tabs-group-4" class="tab-group">
+				<h2 class="tab-group__title">Our Recent Work</h2>
+				<div class="js-tabs">
+					<div class="js-tabs hb-tabs">
+						<ul class="js-tablist hb-tabs__nav">
+							<li class="js-tab-link hb-tabs__nav-list-item is-active" data-tab-id="tab1" data-tab-name="home-tabbing1">
+								<a class="hb-tabs__nav-list-link">Radius</a>
+							</li>
+							<li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab2" data-tab-name="home-tabbing1">
+								<a class="hb-tabs__nav-list-link">Aliquam</a>
+							</li>
+							<li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab3" data-tab-name="home-tabbing1">
+								<a class="hb-tabs__nav-list-link">Aliquam</a>
+							</li>
+						</ul>
+						<div class="tab-tab1 hb-tabs__panel is-active" data-tab-name="home-tabbing1" style="background-image: url(/junaid1/assets/img/bg/portfolio1.jpg);">
+							<h3>Radius</h3>
+							<p>Stream the tracks you love instantly, browse the charts or fire up curated playlists in every genre and mood. Radio plays you great song after great song, based on your music taste. Discover new music too, with awesome playlists built just for you.</p>
+						</div>
+						<div class="tab-tab2 hb-tabs__panel" data-tab-name="home-tabbing1" style="background-image: url(/junaid1/assets/img/bg/portfolio2.jpg);">
+							<h3>Totem</h3>
+							<p>Totem is a Free cross-platform messaging for iOS & Android. Connect globally with free calls and exchange text, photo, audio, and video messages across devices seamlessly.</p>
+						</div>
+						<div class="tab-tab3 hb-tabs__panel" data-tab-name="home-tabbing1" style="background-image: url(/junaid1/assets/img/bg/portfolio3.jpg);">
+							<h3>IRT</h3>
+							<p>Revolutionize your electronics experience with our app. Streamlined interface, cutting-edge features, and seamless connectivity for an enhanced digital lifestyle. Elevate your buying and selling journey effortlessly.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="stripe weoffer-sec">
+		<div class="container">
+			<div class="top-heading text-center mb-5">
+				<h3>Our Application Development Process</h3>
+			</div>	
+			<div class="row">
+				<!--==================== SERVICE CARD ====================-->
+				<div class="col-lg-4">
+					<div class="card__bx card__1">
+						<div class="card__data">
+							<div class="card__icon">
+								<div class="card__icon-bx">
+									<i class="fa-solid fa-pen-ruler"></i>
+								</div>
+							</div>
+							<div class="card__content">
+								<h3>Product Strategy</h3>
+								<p>Our application developers work and develop a strategy for developing your idea into a full-fledged mobile application that your customers would love</p>
+								<a href="#">Read More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="card__bx card__1">
+						<div class="card__data">
+							<div class="card__icon">
+								<div class="card__icon-bx">
+									<i class="fa-solid fa-pen-ruler"></i>
+								</div>
+							</div>
+							<div class="card__content">
+								<h3>UI/UX Design</h3>
+								<p>Designing an experience assisted by an impeccable interface is the pinnacle of an app’s success, and take large measures to ensure your app looks and feels right.</p>
+								<a href="#">Read More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="card__bx card__1">
+						<div class="card__data">
+							<div class="card__icon">
+								<div class="card__icon-bx">
+									<i class="fa-solid fa-pen-ruler"></i>
+								</div>
+							</div>
+							<div class="card__content">
+								<h3>Testing</h3>
+								<p>Rigorous testing phases are run to ensure the app is free of lags, bugs, and other developmental issues which could slow progress or hamper a seamless user experience.</p>
+								<a href="#">Read More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="card__bx card__1">
+						<div class="card__data">
+							<div class="card__icon">
+								<div class="card__icon-bx">
+									<i class="fa-solid fa-pen-ruler"></i>
+								</div>
+							</div>
+							<div class="card__content">
+								<h3>Analysis & Planning</h3>
+								<p>We carefully analyze each process, prepare its findings, and developing intuitive strategies to work on the most pressing areas.</p>
+								<a href="#">Read More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="card__bx card__1">
+						<div class="card__data">
+							<div class="card__icon">
+								<div class="card__icon-bx">
+									<i class="fa-solid fa-pen-ruler"></i>
+								</div>
+							</div>
+							<div class="card__content">
+								<h3>App Development</h3>
+								<p>The most awaited process where our coders get down to go the groundwork by our application developers.</p>
+								<a href="#">Read More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="card__bx card__1">
+						<div class="card__data">
+							<div class="card__icon">
+								<div class="card__icon-bx">
+									<i class="fa-solid fa-pen-ruler"></i>
+								</div>
+							</div>
+							<div class="card__content">
+								<h3>Development & Support</h3>
+								<p>After complete development, your app idea is deployed on hosting platforms and post-launch support is initiated.</p>
+								<a href="#">Read More</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
 	<section class="stripe brand-sec" data-aos="fade-up">
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-2">
-					<div class="web-heading">
-						<h3>Awards &
-							Recognitions</h3>
-					</div>
-				</div>
-				<div class="col-lg-10">
-					<ul class="brand-logos">
-						<li><img src="/junaid1/assets/img/mix/brand-1.png" alt=""></li>
-						<li><img src="/junaid1/assets/img/mix/brand-2.png" alt=""></li>
-						<li><img src="/junaid1/assets/img/mix/brand-3.png" alt=""></li>
-						<li><img src="/junaid1/assets/img/mix/brand-4.png" alt=""></li>
-						<li><img src="/junaid1/assets/img/mix/brand-5.png" alt=""></li>
-						<li><img src="/junaid1/assets/img/mix/brand-6.png" alt=""></li>
-						<li><img src="/junaid1/assets/img/mix/brand-7.png" alt=""></li>
-					</ul>
-				</div>
+			<div class="top-heading text-center mb-5">
+				<h3>Awards & Recognitions</h3>
 			</div>
+			<ul class="brand-logos">
+				<li><img src="/junaid1/assets/img/mix/brand-1.png" alt=""></li>
+				<li><img src="/junaid1/assets/img/mix/brand-2.png" alt=""></li>
+				<li><img src="/junaid1/assets/img/mix/brand-3.png" alt=""></li>
+				<li><img src="/junaid1/assets/img/mix/brand-4.png" alt=""></li>
+				<li><img src="/junaid1/assets/img/mix/brand-5.png" alt=""></li>
+				<li><img src="/junaid1/assets/img/mix/brand-6.png" alt=""></li>
+				<li><img src="/junaid1/assets/img/mix/brand-7.png" alt=""></li>
+			</ul>
 		</div>
 	</section>
-	<section class="stripe-3 testi-sec carousel-sec">
-		<div class="container position-relative">
-		<div class="heading text-center mb-50" data-aos="fade-up">
-			<h3>A Spectrum of Services Redefining Digital Excellence</h3>
-		</div>
-			<div class="js-carousel">
-				<div class="testi-wrap" data-aos="fade-up">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mob-testi.png" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Mobile App Development</h3>
-								<p>Welcome to our Mobile App Development Services, where innovation meets expertise to shape your digital vision into reality. As a leading provider, we offer comprehensive solutions spanning Android, iOS, and hybrid platforms. Our skilled team is dedicated to delivering tailor-made applications that resonate with your unique goals and requirements. From conceptualization to deployment, we ensure a seamless and efficient app development journey. Explore our services and partner with us to transform your ideas into successful, user-centric mobile applications.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi2.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>IOS App Development</h3>
-								<p> Welcome to our iOS app development company, your gateway to professional excellence and innovation. Our team, composed of professional iOS app developers, specializes in mobile iOS app development, offering a spectrum of iOS development services. Whether you aspire to make an iOS app or seek the best iOS app development companies, our agency stands out as your go-to destination.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div> 
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi3.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Android App Development</h3>
-								<p> Welcome to our Android App Development agency, where innovation and expertise converge for seamless Android mobile app developments. As a reputable Android App Development Company, we specialize in providing cutting-edge solutions tailored to your unique needs. Our team excels in Android software developments, utilizing the latest technology from the Android development studio.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div> 
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi4.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Game App Development</h3>
-								<p>Welcome to our Game App Development agency, where innovation meets expertise, led by Professional game app developers. Specializing in both Android game app development, offering seamless solutions through our Android game dev app. Explore the convenience of Mobile iOS and Android game Development as we make it easy to Develop mobile games online.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi5.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Enterprise Mobile App Development</h3>
-								<p>Welcome to our Enterprise Mobile App Development Agency, where we redefine innovation and expertise through the lens of a professional enterprise app developer. Specializing in both enterprise mobile app developments and enterprise mobile apps development, we leverage cutting-edge technology and a mobile enterprise application platform.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi6.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Hybrid Mobile App Development</h3>
-								<p>Welcome to our Hybrid Mobile App Development agency, where we specialize in both hybrid mobile app development and hybrid application development. As a distinguished Hybrid Mobile App Company, our team of professional hybrid mobile developers is committed to delivering the best hybrid mobile developments.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi7.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Prototype Mobile App Development</h3>
-								<p>Welcome to our Prototype Mobile App Development company, where our experts specialize in innovative solutions for your digital needs. Focused on Create Prototype mobile app development and build mobile app prototype, we ensure standout experiences for Android users. Our proficiency extends to Prototype iOS app development, delivering top-notch applications for Apple devices.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi8.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>React Native App Development</h3>
-								<p>Welcome to our React Native App Development page, where our team of Professional React Native App Developers excels in crafting innovative solutions. Specializing in both React Native Android app development and React Native iOS app development, we stand out as a prominent React Native Development Company and agency. Whether you aim to create React Native apps or explore React Native hybrid app development, we assure top-notch services.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi9.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>NFT Development</h3>
-								<p>Welcome to our NFT Development agency, where we specialize in crafting innovative solutions for the blockchain era. Our expertise spans diverse services, including NFT mobile app development, NFT marketplace development, and NFT Android mobile app development. Explore our customizable solutions, such as NFT marketplace white label and NFT app development services, tailored to meet your unique needs.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi10.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Wearable App Development</h3>
-								<p>Welcome to our Wearable App Development page, where innovation meets functionality. Our expertise extends to various services, including wearable app development, wearable Android app development, and Android wearable app development.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			    <div class="testi-wrap">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 align-self-center">
-							<div class="testi-img">
-								<div class="shape pos-4">
-									<img src="/junaid1/assets/img/icons/square-icons.svg" class="js-tosvg" alt="">
-								</div>
-								<img src="/junaid1/assets/img/mix/mobile-testi11.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="testi-content">
-								<h3>Cross-Platform App Development</h3>
-								<p>Welcome to our dedicated Cross-Platform App Development center, where we specialize in creating versatile applications for various platforms. With expertise in cross-platform mobile app development and cross-platform desktop app development, we stand out as a leader in the field of cross-platform app development. Harnessing the power of Flutter cross-platform development, we ensure seamless and efficient applications.</p>
-								<div class="testi-btn">
-									<a href="/portfolio.php" class="btn btn-primary">Read more</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="js-sliderArrows sliderArrows sty1" data-arrow-left="ic-1" data-arrow-right="ic-1"></div>
-		</div>
-	</section>
-	
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/slider-redefined.php"); ?>
 
-	<section class="stripe-3 bg-detail flex-sec" style="background: url(/junaid1/assets/img/thumbnails/thumb-2.jpg);">
+
+	<section class="stripe why-choose-sec">
 		<div class="container">
-			<div class="heading text-center" data-aos="fade-up">
-				<h3>The Pixel Appy Symphony of <br> Mobile App Development</h3>
-				<p>At Pixel Appy, we follow a meticulous and collaborative app development process to ensure the successful <br>creation of your mobile application. Our methodical approach involves several key steps that guide the project from concept to launch.</p>
+			<div class="row justify-content-between">
+				<div class="col-lg-6 align-self-center">
+					<div class="section-content">
+						<h3>The Preference Of Top Companies</h3>
+						<p>At Hoff & Mazor, We Transform Brands By Generating Ideas, Building Products And Accelerating Growth. We Go The Extra Mile To Adopt Innovation, The Latest Technologies And Seamless Procedures Which Stands Us Out From The Competition.</p>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="image-wrap">
+						<img src="/junaid1/assets/img/mix/why-choose-img.avif" alt="">
+					</div>
+				</div>
 			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-6">
-					<div class="slider-pointers-wrap carousel-navfor">
-						<div class="slider-pointers">
-							<ul class="pointers-list js-pointer-ic">
-								<li><div class="pointer-ic"><i class="ic-2"></i></div></li>
-								<li><div class="pointer-ic"><i class="ic-3"></i></div></li>
-								<li><div class="pointer-ic"><i class="ic-4"></i></div></li>
-								<li><div class="pointer-ic"><i class="ic-2"></i></div></li>
-							</ul>
-						<div class="js-sliderArrows sliderArrows sty5" data-arrow-left="ic-35" data-arrow-right="ic-36"></div>
+			<div class="box-style">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="blog-inner">
+							<div class="blog-slider__item">
+								<div class="blog-slider__img">
+									<img alt="Design" class="finbyz-zoomin" src="https://finbyz.tech/files/design.svg" title="Design">
+								</div>
+								<div class="blog-slider__content">
+									<h4>Customer Relationship</h4>
+									<div class="blog-slider__text">
+										<p>Our team of developers are proficient in creating a niche-tailored app for your brand which enhances your relationship with the customers. Get an app designed for your brand today!</p>
+									</div>
+								</div>
+							</div>
 						</div>
-						<div class="js-pointer-content">
-							<div class="pointers-content">
-								<h4 class="h4">01</h4>
-								<h3 class="cl-white">Project Discovery:</h3>
-								<p class="cl-white">The journey begins with a comprehensive project discovery phase. We engage with you to understand your vision, goals, and target audience. Through discussions, we gather requirements, identify features, and define the project scope. This phase lays the foundation for the entire development process, fostering a clear understanding of your expectations.</p>
+					</div>
+					<div class="col-lg-6">
+						<div class="blog-inner">
+							<div class="blog-slider__item">
+								<div class="blog-slider__img">
+									<img alt="Design" class="finbyz-zoomin" src="https://finbyz.tech/files/design.svg" title="Design">
+								</div>
+								<div class="blog-slider__content">
+									<h4>Stronger Brand</h4>
+									<div class="blog-slider__text">
+										<p>The mission of our company is to create apps for our clients that can build credibility, familiarity and trust with their customers. Resultantly, our clients enjoy a stronger brand with enhanced brand awareness and increased customer loyalty.</p>
+									</div>
+								</div>
 							</div>
-							<div class="pointers-content">
-								<h4 class="h4">02</h4>
-								<h3 class="cl-white">Wireframes and Prototyping:</h3>
-								<p class="cl-white">With a solid understanding of your requirements, we proceed to create detailed wireframes and prototypes. These visual representations allow you to visualize the app's structure and functionality. We prioritize your feedback during this phase, making necessary adjustments to refine the user experience and ensure alignment with your vision.</p>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="blog-inner">
+							<div class="blog-slider__item">
+								<div class="blog-slider__img">
+									<img alt="Design" class="finbyz-zoomin" src="https://finbyz.tech/files/design.svg" title="Design">
+								</div>
+								<div class="blog-slider__content">
+									<h4>Customer Insights</h4>
+									<div class="blog-slider__text">
+										<p>Customer data is one of the most important marketing tools that brands can use to improve their products and target customers more efficiently. Design an app with us and enjoy the treasure of customer insights.</p>
+									</div>
+								</div>
 							</div>
-							<div class="pointers-content">
-								<h4 class="h4">03</h4>
-								<h3 class="cl-white">Design and UI/UX Development:</h3>
-								<p class="cl-white">Our design team brings your app to life with visually appealing and intuitive interfaces. We focus on creating a seamless user experience (UI/UX) that aligns with your brand identity. From color schemes to interactive elements, every aspect is carefully crafted to enhance usability and engagement.</p>
-							</div>
-							<div class="pointers-content">
-								<h4 class="h4">04</h4>
-								<h3 class="cl-white">Project Discovery:</h3>
-								<p class="cl-white">The actual coding and development process kick off once the design is approved. Our experienced developers use the latest technologies and best practices to build a robust and scalable app. Regular communication and updates keep you informed about the progress, ensuring transparency throughout the development journey.</p>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="blog-inner">
+							<div class="blog-slider__item">
+								<div class="blog-slider__img">
+									<img alt="Design" class="finbyz-zoomin" src="https://finbyz.tech/files/design.svg" title="Design">
+								</div>
+								<div class="blog-slider__content">
+									<h4>Competitive Edge</h4>
+									<div class="blog-slider__text">
+										<p>In this age of cut-throat competition, brands find it hard to survive. At Hoff & Mazor, we are experts in transforming the digital presence of our clients to give them a competitive edge in the market. Hire us to remodel your brand.</p>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="box-img" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000">
-			<img src="/junaid1/assets/img/mix/box-img.png" alt="">
-		</div>
 	</section>
-
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/mob-sec.php"); ?>
 	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/project-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/tabs-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/comp-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/slider-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/contact-form.php"); ?>
 	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/footer.php"); ?>
 	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/scripts.php"); ?>
 </body>
