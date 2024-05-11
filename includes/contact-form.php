@@ -42,15 +42,8 @@
 						</form>
 						</div>
 					</div>
-				
-		
-		
-	
-						<div class="project-img" data-aos="zoom-out-left">
-							<img src="/junaid1/assets/img/mix/pro-mob.png" alt="">
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
+</section>
