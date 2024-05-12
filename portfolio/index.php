@@ -101,7 +101,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/healrh-tracker-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/healrh-tracker-logo.webp" alt="">
                                             <h3 class="h3">Health Tracker</h3>
                                         </div>
                                         <p>Discover The Convenience Of Health Tracker, A User-Friendly App That Empowers
@@ -121,7 +121,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/health-tracker.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/health-tracker.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/healthy-together-main.webp"
+                                            <img src="/junaid1/assets/img/portfolio/healthy-together-main.webp"
                                                 alt="">
                                             <h3 class="h3">Healthy Together</h3>
                                         </div>
@@ -147,7 +147,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/healthy-together-logo.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/healthy-together-logo.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/home-fitness-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/home-fitness-logo.webp" alt="">
                                             <h3 class="h3">Home Fitness</h3>
                                         </div>
                                         <p>Home Fitness Takes The Gym Into Your Living Room, Making Wellness Accessible
@@ -172,7 +172,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/home-fitness-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/home-fitness-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +180,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/united-1.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/united-1.webp" alt="">
                                             <h3 class="h3">United</h3>
                                         </div>
                                         <p>United Is Your One-Stop Shop For Health, Designed To Make Your Health Journey
@@ -199,7 +199,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/united-2.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/united-2.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -211,7 +211,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/jeeb-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/jeeb-logo.webp" alt="">
                                             <h3 class="h3">Jeeb | Grocery Delivery</h3>
                                         </div>
                                         <p>Your Dedicated Destination For All Things Groceries. We're Committed To
@@ -231,7 +231,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/jeeb.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/jeeb.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -239,7 +239,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/qfc-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/qfc-logo.webp" alt="">
                                             <h3 class="h3">QFC</h3>
                                         </div>
                                         <p>QFC Gives Users An Effortless And Easy Way To Get Premium Food Items And
@@ -256,7 +256,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/qfc-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/qfc-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -264,7 +264,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/ruler-food-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/ruler-food-logo.webp" alt="">
                                             <h3 class="h3">Ruler Food</h3>
                                         </div>
                                         <p>Ruler Food App Gives It Consumers An Easy And Affordable Grocery Shopping
@@ -281,7 +281,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/ruler-food-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/ruler-food-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -293,7 +293,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/trackwallet-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/trackwallet-logo.webp" alt="">
                                             <h3 class="h3">Track Wallet | Expense Tracker</h3>
                                         </div>
                                         <p>TrackWallet Is Your Ultimate Money Manager And Expense Tracker App, Designed
@@ -310,7 +310,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/trackwallet.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/trackwallet.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -318,7 +318,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/advancly-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/advancly-logo.webp" alt="">
                                             <h3 class="h3">Advancly</h3>
                                         </div>
                                         <p>Advacly Is Your Reliable Financial Partner. This App Gives Tailored Financial
@@ -335,7 +335,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/advancly-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/advancly-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -343,7 +343,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/allio-finance-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/allio-finance-logo.webp" alt="">
                                             <h3 class="h3">Allio Finance</h3>
                                         </div>
                                         <p>The Only Digitized, Expert-Managed Financial App In The 21st Century, Allio
@@ -362,7 +362,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/allio-finance-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/allio-finance-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -374,7 +374,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/recime-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/recime-logo.webp" alt="">
                                             <h3 class="h3">ReciMe | Easy Recipes</h3>
                                         </div>
                                         <p>ReciMe Is Your Social Hub For Culinary Inspiration, Offering A Platform To
@@ -392,7 +392,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/recimen.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/recimen.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -400,7 +400,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/grub-hub.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/grub-hub.webp" alt="">
                                             <h3 class="h3">Grub Hub: Food Delivery</h3>
                                         </div>
                                         <p>Whether You Want To Take Your Restaurant Online Or Wish To Offer Food
@@ -418,7 +418,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/seamless.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/seamless.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -426,7 +426,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/hi-menu-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/hi-menu-logo.webp" alt="">
                                             <h3 class="h3">Hi-Menu</h3>
                                         </div>
                                         <p>Dining Is Revolutionized By The "Hi-Menu" App. Using Your Smartphone, You Can
@@ -442,7 +442,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/hi-menu-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/hi-menu-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -450,7 +450,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/sweetgreen-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/sweetgreen-logo.webp" alt="">
                                             <h3 class="h3">Sweet-Green</h3>
                                         </div>
                                         <p>Your Food Adventure Is Made Better By The Sweetgreen App. Explore A Menu Full
@@ -467,7 +467,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/sweetgreen-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/sweetgreen-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -479,7 +479,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/buzzz-blocks-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/buzzz-blocks-logo.webp" alt="">
                                             <h3 class="h3">Buzzz Blocks</h3>
                                         </div>
                                         <p>It's The Brainteaser That Will Keep You Hooked, Buzz Blocks Puzzle. Play With
@@ -496,7 +496,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/buzzz-blocks-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/buzzz-blocks-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -504,7 +504,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/number-blocks-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/number-blocks-logo.webp" alt="">
                                             <h3 class="h3">Number Blocks</h3>
                                         </div>
                                         <p>A Fun Puzzle Game That Challenges Your Arithmetic Abilities Can Be Downloaded
@@ -521,7 +521,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/number-blocks-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/number-blocks-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -529,7 +529,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/vertical-race-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/vertical-race-logo.webp" alt="">
                                             <h3 class="h3">Vertical Race</h3>
                                         </div>
                                         <p>The Vertical Race Raises The Bar For Gaming. In This Thrilling Vertical Race,
@@ -546,7 +546,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/vertical-race-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/vertical-race-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -558,7 +558,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/crichype-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/crichype-logo.webp" alt="">
                                             <h3 class="h3">Cric Hype</h3>
                                         </div>
                                         <p>All Cricket Fans Dream Come True With The Crichype App. Enjoy In-Depth
@@ -576,7 +576,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/crichype-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/crichype-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -584,7 +584,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/stadium-live-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/stadium-live-logo.webp" alt="">
                                             <h3 class="h3">Stadium Live</h3>
                                         </div>
                                         <p>The Thrill Of Live Sports Is Brought To You By Stadium Live. Get Play-By-Play
@@ -602,7 +602,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/stadium-live-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/stadium-live-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -610,7 +610,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/sports-biz-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/sports-biz-logo.webp" alt="">
                                             <h3 class="h3">Sports Biz</h3>
                                         </div>
                                         <p>Your Perfect Sports Business Partner Is The Sports Biz App. Keep Up With The
@@ -627,7 +627,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/sports-biz-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/sports-biz-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -639,7 +639,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/simply-auto-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/simply-auto-logo.webp" alt="">
                                             <h3 class="h3">Simply Auto</h3>
                                         </div>
                                         <p>Simply Auto Is Your Personal Auto Repair Guide, Created To Ensure Best
@@ -656,7 +656,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/simply-auto-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/simply-auto-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -664,7 +664,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/smart-estimator-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/smart-estimator-logo.webp" alt="">
                                             <h3 class="h3">Smart Estimator</h3>
                                         </div>
                                         <p>Smart Estimator Offers Accurate, Customized Estimates For Repairs And
@@ -684,7 +684,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/smart-estimator-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/smart-estimator-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -692,7 +692,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/pixelappy/assets/img/portfolio/your-mechanic-logo.webp" alt="">
+                                            <img src="/junaid1/assets/img/portfolio/your-mechanic-logo.webp" alt="">
                                             <h3 class="h3">Your Mechanic</h3>
                                         </div>
                                         <p>Your Mechanic App Revolutionizes Vehicle Maintenance. Convenience And
@@ -711,7 +711,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/pixelappy/assets/img/portfolio/your-mechanic-main.webp" alt="">
+                                        <img src="/junaid1/assets/img/portfolio/your-mechanic-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
