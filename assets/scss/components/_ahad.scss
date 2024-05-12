@@ -142,3 +142,168 @@
 		        }
 		    }
 		}
+
+
+
+
+
+
+
+		.portfolio-tab {
+			.section-content {
+				text-align: left;
+				p {
+					@include fontCalcSize(20, 12);
+					font-weight: 400;
+					line-height: 1.4;
+				}
+				@media (max-width: 1199px) {
+					.btn{
+						padding: 8px 18px;
+						margin: 3px 0;
+					}
+				}
+			}
+			.sm-logo {
+				display: flex;
+				align-items: center;
+				margin-bottom: 30px;
+				img {
+					width: 90px;
+					margin-right: 20px;
+				}
+				.h3 {
+					@include fontCalcSize(50, 22);
+					font-weight: 700;
+					letter-spacing: 1px;
+				}
+			}
+			@media (max-width: 991px) {
+				.section-img {
+					padding-top: 50px;
+					margin-bottom: 40px;
+				}
+			}
+			@media (max-width: 575px) {
+				.sm-logo{
+					margin-bottom: 15px;
+					img{
+						width: 50px;
+						margin-right: 10px;
+					}
+				}
+				.section-img {
+					padding-top: 10px;
+					margin-bottom: 50px;
+				}
+			}
+		}
+
+
+		.tabbing-list{
+			display: flex;
+			align-items: center;
+			background: $iBlack;
+			border-radius: 16px;
+			flex-wrap: wrap;
+			gap: 0 30px;
+			padding: 20px;
+			li{
+				flex: 0 0 auto;
+				width: calc(20% - 30px);
+				border-radius: 12px;
+				padding: 20px 20px;
+				a{
+					display: flex;
+					align-items: flex-end;
+					justify-content: center;
+					font-family: $secondaryFont;
+					color: $white;
+					font-weight: 500;
+					@include fontCalcSize(23, 12);
+		
+				}
+				&.is-active{
+				   background: linear-gradient(179deg, #3159f7 -10.77%, #885fe7 83.62%);
+				}
+			}
+			&.sty1{
+				justify-content: center;
+				>li{
+					flex: 0 0 auto;
+					max-width: 12%;
+					padding: 12px 20px;
+					>a{
+						@include fontCalcSize(18, 12);
+					}
+				}
+				@media (max-width: 1199px) {
+					>li{
+						max-width: none;
+						width: auto;
+					}
+				}
+				@media (max-width: 575px) {
+					>li{
+						width: 100%;
+					}
+				}
+			}
+			@media(max-width:1366px){
+				li{
+					padding: 5px;
+					a{
+						align-items: center;
+						@include fontCalcSize(23, 12);
+		
+					}
+				}
+			}
+			@media(max-width:991px){
+				gap: 0 15px;
+				justify-content: center;
+				li{
+				width: calc(30% - 15px);
+		
+					a{
+						align-items: center;
+						 @include fontCalcSize(16, 12);
+		
+		
+						img{
+							width: 23px;
+							margin-right: 5px;
+						}
+					}
+				}
+			}
+			@media(max-width:767px){
+			  
+				li{
+					 width: calc(50% - 15px);
+					 padding: 15px 7px;
+		
+				}
+			}
+		
+		  
+			
+		}
+
+
+		.direction-reverse{
+			flex-direction: row-reverse;
+			@media (max-width: 991px) {
+				flex-direction: row;
+			}
+		}
+
+
+
+
+		.tabbing-content{
+			display: none;
+			&.is-active{
+				display: block;
+			}
+		}
