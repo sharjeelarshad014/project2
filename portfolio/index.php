@@ -122,6 +122,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
                                         <img src="/junaid1/assets/img/portfolio/health-tracker.webp" alt="">
+										<!-- ...... -->
                                     </div>
                                 </div>
                             </div>
