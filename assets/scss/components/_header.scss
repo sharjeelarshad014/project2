@@ -1,11 +1,11 @@
 .header {
-    padding: 10px 25px;
+    padding: 0px 25px;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 5;
-    background: #1F1F1F;
+    background: linear-gradient(45deg, #f8e5ff, #dfdcff);
     transition: all .35s ease;
     border: 1px solid #7070704D;
     border-radius: 10px;
@@ -16,11 +16,10 @@
         margin: 0;
         width: 100%;
         border-radius: 0;
-        background: #1F1F1F;
 
         .logo {
-            flex: 0 0 90px;
-            max-width: 90px;
+            flex: 0 0 15px;
+            max-width: 150px;
         }
 
     }
@@ -57,15 +56,15 @@
     }
 }
 .logo {
-    flex: 0 0 100px;
-    max-width: 100px;
+    flex: 0 0 190px;
+    max-width: 190px;
     transition: all .35s ease;
    
  
 
     @media(max-width: 991px) {
-        flex: 0 0 80px;
-        max-width: 80px;
+        flex: 0 0 120px;
+        max-width: 120px;
     }
 }
 
@@ -78,8 +77,9 @@
             padding: 0 0 0 50px;
 
             a {
-                @include fontCalcSize(16, 12);
-                color: $white;
+                @include fontCalcSize(20, 12);
+                color: $black;
+                font-weight: 600;
                 text-transform: uppercase;
                 display: block;
                 position: relative;
@@ -95,12 +95,12 @@
                     bottom: 0;
                     width: 0;
                     height: 2px;
-                    background-color: $white;
+                    background-color: $iPrimary;
                     transition: all .35s ease;
                 }
 
                 &.is--active {
-                    color: $white;
+                    color: $iPrimary;
 
                     &:before {
                         width: 36px;
@@ -111,7 +111,7 @@
             &:hover,
             &.is--active {
                 a {
-                    color: $white;
+                    color: $iPrimary;
 
                     &:before {
                         width: 36px;

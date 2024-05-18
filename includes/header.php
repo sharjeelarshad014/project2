@@ -20,7 +20,7 @@
 <header class="header js-fixed">
 		<div class="fflex">
 			<div class="logo-area">
-				<a href="https://clients.codexwriter.com/qem/" class="logo">
+				<a href="/junaid1/" class="logo">
 					<img src="/junaid1/assets/img/brand/logo.png" alt="">
 					
 				</a>
@@ -92,14 +92,12 @@
 						</div>
 						<a href="javascript:;">Contact</a>
 					</li>
-					<div class="btn-area sty1 d-none">
-						<a href="javascript:;" class="btn btn-white round-15">Investor Centre <i class="ic-01"></i></a>
-					</div>
+					
 			
 				</ul>
 			</div>
 			<div class="btn-area">
-				<a href="javascript:;" class="btn btn-primary">Investor Centre <i class="fa-solid fa-arrow-right"></i></a>
+				<a href="javascript:;" class="btn btn-primary">Blog</a>
 			</div>
 			
 			<div class="nav-hamburger js-menubtn">
