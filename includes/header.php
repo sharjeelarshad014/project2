@@ -21,7 +21,7 @@
 		<div class="fflex">
 			<div class="logo-area">
 				<a href="https://clients.codexwriter.com/qem/" class="logo">
-					<img src="./assets/img/brand/logo.png" alt="">
+					<img src="/junaid1/assets/img/brand/logo.png" alt="">
 					
 				</a>
 				<div class="social-ic">
@@ -37,24 +37,24 @@
 						<a href="/junaid1/industries/">Industries</a>
 					</li>
 					<li>
-						<a href="javascript:;">Project</a>
+						<a href="/junaid1/services/">Services</a>
 					</li>
 					<li>
-						<a href="javascript:;">Vanadium</a>
+						<a href="/junaid1/portfolio/">Portfolio</a>
 					</li>
 					<li>
-						<a href="javascript:;">Contact</a>
+						<a href="/junaid1/contact-us/">Contact</a>
 					</li>
-					<div class="btn-area sty1 d-none">
+					<!-- <div class="btn-area sty1 d-none">
 						<a href="javascript:;" class="btn btn-white round-15">Investor Centre <i class="ic-01"></i></a>
-					</div>
+					</div> -->
 			
 				</ul>
 			</div>
 			<div class="navigation mobile ">
 				<div class="logo-area">
 					<a href="/" class="logo">
-						<img src="./assets/img/brand/logo.png" alt="">
+						<img src="/junaid1/assets/img/brand/logo.png" alt="">
 					</a>
 					
 					<div class="nav-hamburger js-menubtn">
