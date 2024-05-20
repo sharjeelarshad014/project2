@@ -56,40 +56,41 @@
     </section>
 
     <section class="stripe partner-sec">
-		<div class="container">
-			<div class="top-heading text-center mb-5">
-				<h3>WE PARTNER WITH TOP BRANDS</h3>
-				<p>Hoff & Mazor has a partnership with these leading enterprise technology brands to deliver an innovative and seamless experience to our clients.</p>
-			</div>
-			<ul class="list-style">
-				<li>
-					<div class="section-image">
-						<img src="/junaid1/assets/img/mix/partner1.avif" alt="">
-					</div>
-				</li>
-				<li>
-					<div class="section-image">
-						<img src="/junaid1/assets/img/mix/partner2.avif" alt="">
-					</div>
-				</li>
-				<li>
-					<div class="section-image">
-						<img src="/junaid1/assets/img/mix/partner3.avif" alt="">
-					</div>
-				</li>
-				<li>
-					<div class="section-image">
-						<img src="/junaid1/assets/img/mix/partner4.avif" alt="">
-					</div>
-				</li>
-				<li>
-					<div class="section-image">
-						<img src="/junaid1/assets/img/mix/partner5.avif" alt="">
-					</div>
-				</li>
-			</ul>
-		</div>
-	</section>
+        <div class="container">
+            <div class="top-heading text-center mb-5">
+                <h3>WE PARTNER WITH TOP BRANDS</h3>
+                <p>Hoff & Mazor has a partnership with these leading enterprise technology brands to deliver an
+                    innovative and seamless experience to our clients.</p>
+            </div>
+            <ul class="list-style">
+                <li>
+                    <div class="section-image">
+                        <img src="/junaid1/assets/img/mix/partner1.avif" alt="">
+                    </div>
+                </li>
+                <li>
+                    <div class="section-image">
+                        <img src="/junaid1/assets/img/mix/partner2.avif" alt="">
+                    </div>
+                </li>
+                <li>
+                    <div class="section-image">
+                        <img src="/junaid1/assets/img/mix/partner3.avif" alt="">
+                    </div>
+                </li>
+                <li>
+                    <div class="section-image">
+                        <img src="/junaid1/assets/img/mix/partner4.avif" alt="">
+                    </div>
+                </li>
+                <li>
+                    <div class="section-image">
+                        <img src="/junaid1/assets/img/mix/partner5.avif" alt="">
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
 
 
     <section class="stripe services-sec">
@@ -196,7 +197,56 @@
             </div>
     </section>
 
-    <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/contact-form.php"); ?>
+    <section class="stripe project-sec">
+        <div class="container">
+            <div class="project-wrap">
+                <div class="row align-items-center">
+                    <div class="col-lg-5">
+                        <div class="project-content">
+                            <h3 data-aos="fade-right">Tell Us About Your Project</h3>
+                            <p data-aos="fade-right">Your Robust Mobile App Awaits The Market. We Can Help</p>
+                        </div>
+                        <div class="project-content">
+                            <h3 data-aos="fade-right">What To Expect Now?</h3>
+                            <p data-aos="fade-right">Our team will get in touch within 24 hours to have a conversation
+                                with you and discuss your idea further.</p>
+                            <p data-aos="fade-right">We will then collect all the requirements and overview of what kind
+                                of mobile app you are looking for</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="slide-wrap get-in-touch">
+                            <form class="contact-form row">
+                                <div class="form-field col-lg-6">
+                                    <input id="name" class="input-text js-input" type="text" required
+                                        placeholder="Name">
+                                </div>
+                                <div class="form-field col-lg-6 ">
+                                    <input id="email" class="input-text js-input" type="email" required
+                                        placeholder="Email">
+                                </div>
+                                <div class="form-field col-lg-6 ">
+                                    <input id="company" class="input-text js-input" type="text" required
+                                        placeholder="Company">
+                                </div>
+                                <div class="form-field col-lg-6 ">
+                                    <input id="phone" class="input-text js-input" type="text" required
+                                        placeholder="Phone">
+                                </div>
+                                <div class="form-field col-lg-12">
+                                    <input id="message" row="3" class="input-text js-input" type="text" required
+                                        placeholder="Message">
+                                </div>
+                                <div class="form-field col-lg-12">
+                                    <input class="submit-btn" type="submit" value="Submit">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
@@ -215,202 +265,224 @@
     </section>
 
     <section class="stripe tab-sec">
-		<div class="container">
-			<div id="tabs-group-4" class="tab-group">
-				<h2 class="tab-group__title">Our Recent Work</h2>
-				<div class="js-tabs">
-					<div class="js-tabs hb-tabs">
-						<ul class="js-tablist hb-tabs__nav">
-							<li class="js-tab-link hb-tabs__nav-list-item is-active" data-tab-id="tab1" data-tab-name="home-tabbing1">
-								<a class="hb-tabs__nav-list-link">Radius</a>
-							</li>
-							<li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab2" data-tab-name="home-tabbing1">
-								<a class="hb-tabs__nav-list-link">Aliquam</a>
-							</li>
-							<li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab3" data-tab-name="home-tabbing1">
-								<a class="hb-tabs__nav-list-link">Aliquam</a>
-							</li>
-						</ul>
-						<div class="tab-tab1 hb-tabs__panel is-active" data-tab-name="home-tabbing1" style="background-image: url(/junaid1/assets/img/bg/portfolio1.jpg);">
-							<h3>Radius</h3>
-							<p>Stream the tracks you love instantly, browse the charts or fire up curated playlists in every genre and mood. Radio plays you great song after great song, based on your music taste. Discover new music too, with awesome playlists built just for you.</p>
-						</div>
-						<div class="tab-tab2 hb-tabs__panel" data-tab-name="home-tabbing1" style="background-image: url(/junaid1/assets/img/bg/portfolio2.jpg);">
-							<h3>Totem</h3>
-							<p>Totem is a Free cross-platform messaging for iOS & Android. Connect globally with free calls and exchange text, photo, audio, and video messages across devices seamlessly.</p>
-						</div>
-						<div class="tab-tab3 hb-tabs__panel" data-tab-name="home-tabbing1" style="background-image: url(/junaid1/assets/img/bg/portfolio3.jpg);">
-							<h3>IRT</h3>
-							<p>Revolutionize your electronics experience with our app. Streamlined interface, cutting-edge features, and seamless connectivity for an enhanced digital lifestyle. Elevate your buying and selling journey effortlessly.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+        <div class="container">
+            <div id="tabs-group-4" class="tab-group">
+                <h2 class="tab-group__title">Our Recent Work</h2>
+                <div class="js-tabs">
+                    <div class="js-tabs hb-tabs">
+                        <ul class="js-tablist hb-tabs__nav">
+                            <li class="js-tab-link hb-tabs__nav-list-item is-active" data-tab-id="tab1"
+                                data-tab-name="home-tabbing1">
+                                <a class="hb-tabs__nav-list-link">Radius</a>
+                            </li>
+                            <li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab2"
+                                data-tab-name="home-tabbing1">
+                                <a class="hb-tabs__nav-list-link">Aliquam</a>
+                            </li>
+                            <li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab3"
+                                data-tab-name="home-tabbing1">
+                                <a class="hb-tabs__nav-list-link">Aliquam</a>
+                            </li>
+                        </ul>
+                        <div class="tab-tab1 hb-tabs__panel is-active" data-tab-name="home-tabbing1"
+                            style="background-image: url(/junaid1/assets/img/bg/portfolio1.jpg);">
+                            <h3>Radius</h3>
+                            <p>Stream the tracks you love instantly, browse the charts or fire up curated playlists in
+                                every genre and mood. Radio plays you great song after great song, based on your music
+                                taste. Discover new music too, with awesome playlists built just for you.</p>
+                        </div>
+                        <div class="tab-tab2 hb-tabs__panel" data-tab-name="home-tabbing1"
+                            style="background-image: url(/junaid1/assets/img/bg/portfolio2.jpg);">
+                            <h3>Totem</h3>
+                            <p>Totem is a Free cross-platform messaging for iOS & Android. Connect globally with free
+                                calls and exchange text, photo, audio, and video messages across devices seamlessly.</p>
+                        </div>
+                        <div class="tab-tab3 hb-tabs__panel" data-tab-name="home-tabbing1"
+                            style="background-image: url(/junaid1/assets/img/bg/portfolio3.jpg);">
+                            <h3>IRT</h3>
+                            <p>Revolutionize your electronics experience with our app. Streamlined interface,
+                                cutting-edge features, and seamless connectivity for an enhanced digital lifestyle.
+                                Elevate your buying and selling journey effortlessly.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="stripe exprerience-sec">
-		<div class="container">
-			<div class="row justify-content-between">
-				<div class="col-lg-6 align-self-center">
-					<div class="section-content">
-						<h3 class="sty1 cl-white"><strong>WE ARE ONE OF THE MOST INNOVATIVE APP DEVELOPMENT COMPANIES OF THE USA</strong></h3>
-						<p class="cl-white">Hoff & Mazor has helped more than 500 companies in strengthening their brand awareness by creating apps with innovative, and attractive UI/UX Designs. We design customized strategies as per clients' needs. Customer satisfaction fuels us to keep going.</p>
-						<div class="btn-wrap mt-2">
-							<a href="javscript:;" class="btn btn-primary">Know More</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 align-self-center">
-					<div class="row">
-						<div class="col-lg-3">
-							<div class="img-wrap">
-								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-								<div class="img-caption">
-									<h5>500+</h5>
-									<p>Clients Powered</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="img-wrap">
-								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-								<div class="img-caption">
-									<h5>TOP 4%</h5>
-									<p>Developer Recruitment Process</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="img-wrap">
-								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-								<div class="img-caption">
-									<h5>10+</h5>
-									<p>Years of Collective Experience</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-3">
-							<div class="img-wrap">
-								<img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-								<div class="img-caption">
-									<h5>5M+</h5>
-									<p>Downloads by Cilent Customers</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-lg-6 align-self-center">
+                    <div class="section-content">
+                        <h3 class="sty1 cl-white"><strong>WE ARE ONE OF THE MOST INNOVATIVE APP DEVELOPMENT COMPANIES OF
+                                THE USA</strong></h3>
+                        <p class="cl-white">Hoff & Mazor has helped more than 500 companies in strengthening their brand
+                            awareness by creating apps with innovative, and attractive UI/UX Designs. We design
+                            customized strategies as per clients' needs. Customer satisfaction fuels us to keep going.
+                        </p>
+                        <div class="btn-wrap mt-2">
+                            <a href="javscript:;" class="btn btn-primary">Know More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 align-self-center">
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <div class="img-wrap">
+                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+                                <div class="img-caption">
+                                    <h5>500+</h5>
+                                    <p>Clients Powered</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="img-wrap">
+                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+                                <div class="img-caption">
+                                    <h5>TOP 4%</h5>
+                                    <p>Developer Recruitment Process</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="img-wrap">
+                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+                                <div class="img-caption">
+                                    <h5>10+</h5>
+                                    <p>Years of Collective Experience</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="img-wrap">
+                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
+                                <div class="img-caption">
+                                    <h5>5M+</h5>
+                                    <p>Downloads by Cilent Customers</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="stripe weoffer-sec">
-		<div class="container">
-			<div class="top-heading text-center mb-5">
-				<h3>Our Application Development Process</h3>
-			</div>	
-			<div class="row">
-				<!--==================== SERVICE CARD ====================-->
-				<div class="col-lg-4">
-					<div class="card__bx card__1">
-						<div class="card__data">
-							<div class="card__icon">
-								<div class="card__icon-bx">
-									<i class="fa-solid fa-pen-ruler"></i>
-								</div>
-							</div>
-							<div class="card__content">
-								<h3>Product Strategy</h3>
-								<p>Our application developers work and develop a strategy for developing your idea into a full-fledged mobile application that your customers would love</p>
-								<a href="#">Read More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="card__bx card__1">
-						<div class="card__data">
-							<div class="card__icon">
-								<div class="card__icon-bx">
-									<i class="fa-solid fa-pen-ruler"></i>
-								</div>
-							</div>
-							<div class="card__content">
-								<h3>UI/UX Design</h3>
-								<p>Designing an experience assisted by an impeccable interface is the pinnacle of an app’s success, and take large measures to ensure your app looks and feels right.</p>
-								<a href="#">Read More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="card__bx card__1">
-						<div class="card__data">
-							<div class="card__icon">
-								<div class="card__icon-bx">
-									<i class="fa-solid fa-pen-ruler"></i>
-								</div>
-							</div>
-							<div class="card__content">
-								<h3>Testing</h3>
-								<p>Rigorous testing phases are run to ensure the app is free of lags, bugs, and other developmental issues which could slow progress or hamper a seamless user experience.</p>
-								<a href="#">Read More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="card__bx card__1">
-						<div class="card__data">
-							<div class="card__icon">
-								<div class="card__icon-bx">
-									<i class="fa-solid fa-pen-ruler"></i>
-								</div>
-							</div>
-							<div class="card__content">
-								<h3>Analysis & Planning</h3>
-								<p>We carefully analyze each process, prepare its findings, and developing intuitive strategies to work on the most pressing areas.</p>
-								<a href="#">Read More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="card__bx card__1">
-						<div class="card__data">
-							<div class="card__icon">
-								<div class="card__icon-bx">
-									<i class="fa-solid fa-pen-ruler"></i>
-								</div>
-							</div>
-							<div class="card__content">
-								<h3>App Development</h3>
-								<p>The most awaited process where our coders get down to go the groundwork by our application developers.</p>
-								<a href="#">Read More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="card__bx card__1">
-						<div class="card__data">
-							<div class="card__icon">
-								<div class="card__icon-bx">
-									<i class="fa-solid fa-pen-ruler"></i>
-								</div>
-							</div>
-							<div class="card__content">
-								<h3>Development & Support</h3>
-								<p>After complete development, your app idea is deployed on hosting platforms and post-launch support is initiated.</p>
-								<a href="#">Read More</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+        <div class="container">
+            <div class="top-heading text-center mb-5">
+                <h3>Our Application Development Process</h3>
+            </div>
+            <div class="row">
+                <!--==================== SERVICE CARD ====================-->
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>Product Strategy</h3>
+                                <p>Our application developers work and develop a strategy for developing your idea into
+                                    a full-fledged mobile application that your customers would love</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>UI/UX Design</h3>
+                                <p>Designing an experience assisted by an impeccable interface is the pinnacle of an
+                                    app’s success, and take large measures to ensure your app looks and feels right.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>Testing</h3>
+                                <p>Rigorous testing phases are run to ensure the app is free of lags, bugs, and other
+                                    developmental issues which could slow progress or hamper a seamless user experience.
+                                </p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>Analysis & Planning</h3>
+                                <p>We carefully analyze each process, prepare its findings, and developing intuitive
+                                    strategies to work on the most pressing areas.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>App Development</h3>
+                                <p>The most awaited process where our coders get down to go the groundwork by our
+                                    application developers.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>Development & Support</h3>
+                                <p>After complete development, your app idea is deployed on hosting platforms and
+                                    post-launch support is initiated.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="stripe box-sec">
         <div class="container">
@@ -421,7 +493,11 @@
                             <div class="blog-slider__content">
                                 <h4>PATIENT-CENTERED SOLUTION</h4>
                                 <div class="blog-slider__text">
-                                    <p>Are you struggling to avail healthcare services 24/7? Our healthcare app development services can allow patients to book appointments, video call, and reach out to healthcare experts with just one click. We offer web app solutions and custom mobile app development that guaranteed a patient-centered solution.</p>
+                                    <p>Are you struggling to avail healthcare services 24/7? Our healthcare app
+                                        development services can allow patients to book appointments, video call, and
+                                        reach out to healthcare experts with just one click. We offer web app solutions
+                                        and custom mobile app development that guaranteed a patient-centered solution.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -433,7 +509,10 @@
                             <div class="blog-slider__content">
                                 <h4>ACCESS TO HEALTHCARE PROVIDERS</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare development solutions allow healthcare providers to check up on their patients without meeting in person. Healthcare experts can now diagnose, treat, and prescribe meds to their patients using our premium medical mobile application.</p>
+                                    <p>Our healthcare development solutions allow healthcare providers to check up on
+                                        their patients without meeting in person. Healthcare experts can now diagnose,
+                                        treat, and prescribe meds to their patients using our premium medical mobile
+                                        application.</p>
                                 </div>
                             </div>
                         </div>
@@ -445,7 +524,9 @@
                             <div class="blog-slider__content">
                                 <h4>CLOUD-BASED SOLUTION</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare app development company utilizes cloud-based telemedicine software to help healthcare firms record and maintain the medical records of their patients without worrying about a security breach.</p>
+                                    <p>Our healthcare app development company utilizes cloud-based telemedicine software
+                                        to help healthcare firms record and maintain the medical records of their
+                                        patients without worrying about a security breach.</p>
                                 </div>
                             </div>
                         </div>
@@ -457,7 +538,9 @@
                             <div class="blog-slider__content">
                                 <h4>EASY BILLING</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare mobile app development company streamlines the medical billing process to make the task easy for both patients and their healthcare providers.</p>
+                                    <p>Our healthcare mobile app development company streamlines the medical billing
+                                        process to make the task easy for both patients and their healthcare providers.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -469,7 +552,9 @@
                             <div class="blog-slider__content">
                                 <h4>EMR & EHR</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our mobile healthcare app allows you to improve the quality of your healthcare services while reducing human error. We allow technicians and healthcare experts to utilize effective EMR & EHR solutions to meet their needs.</p>
+                                    <p>Our mobile healthcare app allows you to improve the quality of your healthcare
+                                        services while reducing human error. We allow technicians and healthcare experts
+                                        to utilize effective EMR & EHR solutions to meet their needs.</p>
                                 </div>
                             </div>
                         </div>
@@ -481,10 +566,12 @@
                             <div class="blog-slider__content">
                                 <h4>MEDICAL APPLICATION</h4>
                                 <div class="blog-slider__text">
-                                    <p>Want to improve the efficiency of your firm’s overall healthcare delivery services? Our mobile app development for healthcare offers the best remote medical services in the USA.</p>
+                                    <p>Want to improve the efficiency of your firm’s overall healthcare delivery
+                                        services? Our mobile app development for healthcare offers the best remote
+                                        medical services in the USA.</p>
                                 </div>
                             </div>
-                        </div>  
+                        </div>
                     </div>
                 </div>
             </div>
