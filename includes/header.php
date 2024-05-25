@@ -34,10 +34,16 @@
 						<a href="/junaid1/about-us">About Us</a>
 					</li>
 					<li>
-						<a href="/junaid1/industries/">Industries</a>
+						<a href="javascript:;">Industries</a>
+						<ul class="dropdown">
+							<li><a href="/services/mobile-app-development.php">Mobile App Development </a></li>
+						</ul>
 					</li>
 					<li>
-						<a href="/junaid1/services/">Services</a>
+						<a href="javascript:;">Services</a>
+						<ul class="dropdown">
+							<li><a href="/services/mobile-app-development.php">Mobile App Development </a></li>
+						</ul>
 					</li>
 					<li>
 						<a href="/junaid1/portfolio/">Portfolio</a>
@@ -97,7 +103,7 @@
 				</ul>
 			</div>
 			<div class="btn-area">
-				<a href="javascript:;" class="btn btn-primary">Blog</a>
+				<a href="javascript:;" class="btn btn-primary">Live Chat</a>
 			</div>
 			
 			<div class="nav-hamburger js-menubtn">
