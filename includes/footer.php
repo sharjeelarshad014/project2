@@ -8,7 +8,7 @@
 							<a href="/">
 								<img src="/junaid1/assets/img/brand/logo.png" alt="">
 							</a>
-							<p>Pixelappy is your go-to destination for all your app development needs. With a team of experienced and innovative developers, we specialize in creating custom mobile applications tailored to your specific requirements. Whether you're looking for a sleek and intuitive user interface, robust functionality, or seamless integration across platforms, Pixelappy delivers top-notch solutions that exceed expectations.</p>
+							<p>The Scrapps is your go-to destination for all your app development needs. With a team of experienced and innovative developers, we specialize in creating custom mobile applications tailored to your specific requirements. Whether you're looking for a sleek and intuitive user interface, robust functionality, or seamless integration across platforms, The Scrapps delivers top-notch solutions that exceed expectations.</p>
 							<ul class="social-link">
 								<li><a href="https://www.facebook.com/PIXELAPPY?mibextid=ZbWKwL" target="_blank"><i class="ic-11"></i></a></li>
 								<li><a href="https://www.instagram.com/pixelappyllc?igsh=MXZuemc2YW5pajdsNw==" target="_blank"><i class="ic-12"></i></a></li>
@@ -65,7 +65,7 @@
 								<li><a href="/contact-us.php">Contact</a></li>
 							</ul>
 							<ul class="brand-links">
-								<li><i class="ic-15"></i><a href="javascript:;">info@pixelappy.com</a></li>
+								<li><i class="ic-15"></i><a href="javascript:;">info@thescrapps.com</a></li>
 								<!--<li><i class="ic-16"></i><a href="javascript:;">+1-xxx-xxx-xxxx</a></li>-->
 								<li><i class="ic-17"></i><a href="javascript:;">5900 Balcones Dr Suite 100 Austin, TX, 78731</a></li>
 							</ul>

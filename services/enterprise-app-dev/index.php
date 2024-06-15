@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>Enterprise Mobile App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -22,9 +22,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="banner-content sty1">
-                        <h1>Services</h1>
-                        <p>Hoff & Mazor is a trusted and reputable app developing agency that has enabled some of the
-                            top brands to gear up their online presence.</p>
+                        <h3>Our Mobile Enterprise App Development Company Is Here To Empower Your Business.</h3>
+                        <p>Our industry-specific enterprise app development services can help you optimize your business operations efficiently.</p>
                         <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
                             <a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>
                             <a href="javascript:;" class="btn btn-transparent">Live Chat</a>
@@ -38,15 +37,12 @@
     <section class="stripe pb-0">
         <div class="container">
             <div class="top-heading text-center">
-                <h3>Our Story</h3>
-                <p>Hoff & Mazor started out by serving US-based businesses and brands, allowing them to expand their
-                    growth and generate more revenue with hi-tech mobile app solutions. Since 2008, we have helped a
-                    wide range of clients identify digital solutions to survive in the industry. Our high-performing iOS
-                    and Android applications can help you generate more sales, setting you apart from your competitors.
-                    Our development team comprises highly experienced and educated individuals who perform their jobs
-                    with complete dedication. Our team delivers exceptional services each time, ensuring client
-                    satisfaction. Whether you belong to a government sector or come from a private firm, our solutions
-                    can help you rank higher in the industry.</p>
+                <h3>Increase Profitability and Efficiency with Our Enterprise App Development Services</h3>
+                <p>Experience a new level of profitability and efficiency with our cutting-edge enterprise app development services. As one of the leading enterprise app development companies, we specialize in creating powerful and scalable solutions tailored to meet your business needs</p>
+                <p>Our team of expert developers understands the complexities of the corporate landscape. With extensive experience in enterprise app development, we design and build robust applications that streamline your business processes, enhance productivity, and boost your bottom line. From enterprise resource planning (ERP) to customer relationship management (CRM), we develop customized solutions that integrate seamlessly with your existing systems.</p>
+                <p>Our enterprise app development approach is driven by a deep understanding of your unique requirements. We collaborate closely with your team to gather insights, analyze workflows, and identify pain points. Leveraging the latest technologies and industry best practices, we deliver intuitive and user-friendly applications that empower your workforce and drive growth.</p>
+                <p>When you choose our enterprise app development services, you gain access to a team of dedicated professionals committed to your success. We ensure timely delivery, maintain stringent quality standards, and provide ongoing support and maintenance to keep your app running smoothly.</p>
+                <p>Unlock the true potential of your business with our enterprise app development expertise. Increase profitability, optimize operations, and gain a competitive edge in today's fast-paced market. Don't settle for off-the-shelf solutions when you can have a tailored app designed specifically for your enterprise. Let us transform your vision into a reality and propel your business towards unparalleled success. Contact us today to embark on your journey of increased profitability and efficiency.</p>
             </div>
             <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
                 <a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>
@@ -59,8 +55,7 @@
         <div class="container">
             <div class="top-heading text-center mb-5">
                 <h3>WE PARTNER WITH TOP BRANDS</h3>
-                <p>Hoff & Mazor has a partnership with these leading enterprise technology brands to deliver an
-                    innovative and seamless experience to our clients.</p>
+                <p><?php echo"$brandName";?> has a partnership with these leading enterprise technology brands to deliver an innovative and seamless experience to our clients.</p>
             </div>
             <ul class="list-style">
                 <li>
@@ -95,102 +90,64 @@
 
     <section class="stripe services-sec">
         <div class="container">
-
-
             <div class="row">
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
                             <span><i class="fa fa-globe"></i></span>
                         </div>
-                        <h3 class="title">Mobile App Development</h3>
-                        <p class="description">Our mobile app development services are aimed at providing an intuitive
-                            app specially designed as per clients’ needs. Our team of professional developers has many
-                            years of experience in crafting niche-specific apps.</p>
+                        <h3 class="title">iOS & Mobile Apps</h3>
+                        <p class="description">Our developers have years’ worth of experience building apps for iOS and Android operating systems. This means we offer mobile enterprise app development for a range of devices like TVs and smartphones, and iOS app development that complies with Apple's app store.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
                             <span><i class="fa fa-rocket"></i></span>
                         </div>
-                        <h3 class="title">IOS App Development</h3>
-                        <p class="description">The iOS app development services at Hoff & Mazor include attractive UI/UX
-                            designs, implementation, QA, and integration of apps for iOS-supporting devices. Our iOS app
-                            developers are experienced in creating apps for different niches.</p>
+                        <h3 class="title">Hybrid Apps</h3>
+                        <p class="description">Our team combines web technologies like JavaScript, CSS, and HTML to create a hybrid app that can fit all systems and doesn't require a separate app for each platform.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
                             <span><i class="fa fa-globe"></i></span>
                         </div>
-                        <h3 class="title">Android App Development</h3>
-                        <p class="description">Our Android development services comprise of design, development, and
-                            enhancement of mobile apps supported by all Android OS versions. Hoff & Mazor aims to
-                            provide a seamless experience to clients.</p>
+                        <h3 class="title">Wearable Apps</h3>
+                        <p class="description">We can take your wearable devices up a notch. We work with different tech companies, helping them develop wearable apps to give their customers the best user experience.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
                             <span><i class="fa fa-rocket"></i></span>
                         </div>
-                        <h3 class="title">Mobile App Prototype</h3>
-                        <p class="description">Before delivering the final project, we create a mobile app prototype to
-                            receive suggestions and ideas to improvise the app. Our team of professionals sit with the
-                            client to discuss creative ideas.</p>
+                        <h3 class="title">UI/UX Design</h3>
+                        <p class="description">Nothing beats a stellar UX in the age of user experience, especially when it comes to enterprise mobile app development. Businesses need to enhance their mobile presence to interact with brands and deliver exceptional performance. Our developers can adjust your application’s interface and make the necessary changes.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
                             <span><i class="fa fa-rocket"></i></span>
                         </div>
-                        <h3 class="title">MVP App Development</h3>
-                        <p class="description">In our MVP App Development services we deliver you the app with core
-                            functionalities so that you can test it out in your target market and improvements, if any,
-                            can be made.</p>
+                        <h3 class="title">Mobile Consulting</h3>
+                        <p class="description">Our mobile consulting services can help you with anything mobile-related. With our help, you can access our extensive knowledge strategies, mobile devices, systems, and architectures.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6">
+                <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
                             <span><i class="fa fa-rocket"></i></span>
                         </div>
-                        <h3 class="title">Games App Development</h3>
-                        <p class="description">Today, the gaming industry is one of the most thriving industries in the
-                            technology world. Get your gaming app developed by the best game app development company
-                            worldwide. Book your appointment!</p>
-                        <a href="#" class="read-more">Read More</a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="serviceBox">
-                        <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
-                        </div>
-                        <h3 class="title">NFT App Development</h3>
-                        <p class="description">The team of developers at Hoff & Mazor are specialized in developing and
-                            designing NFT app development as per the market standards. We understand the market dynamics
-                            and design NFT apps for clients accordingly.</p>
-                        <a href="#" class="read-more">Read More</a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="serviceBox">
-                        <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
-                        </div>
-                        <h3 class="title">Machine Learning App Development</h3>
-                        <p class="description">The designers at Hoff & Mazor leave no stone unturned when it comes to
-                            creating apps on the latest technologies such as Machine Learning. We offer comprehensive ML
-                            app development services to satisfy our client's hunger for innovation.</p>
+                        <h3 class="title">Legacy System Updating</h3>
+                        <p class="description">Have you previously worked with an enterprise mobile app development company and are stuck with the old system? Our developers can enhance your current mobile platform and update it to meet your business needs</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
@@ -203,15 +160,10 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5">
                         <div class="project-content">
-                            <h3 data-aos="fade-right">Tell Us About Your Project</h3>
-                            <p data-aos="fade-right">Your Robust Mobile App Awaits The Market. We Can Help</p>
-                        </div>
-                        <div class="project-content">
-                            <h3 data-aos="fade-right">What To Expect Now?</h3>
-                            <p data-aos="fade-right">Our team will get in touch within 24 hours to have a conversation
-                                with you and discuss your idea further.</p>
-                            <p data-aos="fade-right">We will then collect all the requirements and overview of what kind
-                                of mobile app you are looking for</p>
+                            <h3 data-aos="fade-right">Our App Development for Enterprise Is Leading the Digital Industry by Storm</h3>
+                            <p data-aos="fade-right">Are you looking to refine your enterprise app development solutions? Our app programs for enterprise is exactly what you are looking for. We are a reputable mobile enterprise app development services that can provide you with a stellar mobile application to run your business operations</p>
+                            <p>Whether you wish to build an enterprise app for cross-platform, iOS, or Android devices, our developers are here to develop it for you in an efficient, secure, customized, fast, and reliable way</p>
+                            <p>Furthermore, our end-to-end development services can help your business expand its reach, lower costs, boost productivity, and improve the overall internal processes. We can lead you every step of the way and create an enterprise app that offers an unmatchable user experience, surpassing all expectations.</p>
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -264,111 +216,8 @@
         </div>
     </section>
 
-    <section class="stripe tab-sec">
-        <div class="container">
-            <div id="tabs-group-4" class="tab-group">
-                <h2 class="tab-group__title">Our Recent Work</h2>
-                <div class="js-tabs">
-                    <div class="js-tabs hb-tabs">
-                        <ul class="js-tablist hb-tabs__nav">
-                            <li class="js-tab-link hb-tabs__nav-list-item is-active" data-tab-id="tab1"
-                                data-tab-name="home-tabbing1">
-                                <a class="hb-tabs__nav-list-link">Radius</a>
-                            </li>
-                            <li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab2"
-                                data-tab-name="home-tabbing1">
-                                <a class="hb-tabs__nav-list-link">Aliquam</a>
-                            </li>
-                            <li class="js-tab-link hb-tabs__nav-list-item" data-tab-id="tab3"
-                                data-tab-name="home-tabbing1">
-                                <a class="hb-tabs__nav-list-link">Aliquam</a>
-                            </li>
-                        </ul>
-                        <div class="tab-tab1 hb-tabs__panel is-active" data-tab-name="home-tabbing1"
-                            style="background-image: url(/junaid1/assets/img/bg/portfolio1.jpg);">
-                            <h3>Radius</h3>
-                            <p>Stream the tracks you love instantly, browse the charts or fire up curated playlists in
-                                every genre and mood. Radio plays you great song after great song, based on your music
-                                taste. Discover new music too, with awesome playlists built just for you.</p>
-                        </div>
-                        <div class="tab-tab2 hb-tabs__panel" data-tab-name="home-tabbing1"
-                            style="background-image: url(/junaid1/assets/img/bg/portfolio2.jpg);">
-                            <h3>Totem</h3>
-                            <p>Totem is a Free cross-platform messaging for iOS & Android. Connect globally with free
-                                calls and exchange text, photo, audio, and video messages across devices seamlessly.</p>
-                        </div>
-                        <div class="tab-tab3 hb-tabs__panel" data-tab-name="home-tabbing1"
-                            style="background-image: url(/junaid1/assets/img/bg/portfolio3.jpg);">
-                            <h3>IRT</h3>
-                            <p>Revolutionize your electronics experience with our app. Streamlined interface,
-                                cutting-edge features, and seamless connectivity for an enhanced digital lifestyle.
-                                Elevate your buying and selling journey effortlessly.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="stripe exprerience-sec">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-lg-6 align-self-center">
-                    <div class="section-content">
-                        <h3 class="sty1 cl-white"><strong>WE ARE ONE OF THE MOST INNOVATIVE APP DEVELOPMENT COMPANIES OF
-                                THE USA</strong></h3>
-                        <p class="cl-white">Hoff & Mazor has helped more than 500 companies in strengthening their brand
-                            awareness by creating apps with innovative, and attractive UI/UX Designs. We design
-                            customized strategies as per clients' needs. Customer satisfaction fuels us to keep going.
-                        </p>
-                        <div class="btn-wrap mt-2">
-                            <a href="javscript:;" class="btn btn-primary">Know More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 align-self-center">
-                    <div class="row">
-                        <div class="col-lg-3">
-                            <div class="img-wrap">
-                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-                                <div class="img-caption">
-                                    <h5>500+</h5>
-                                    <p>Clients Powered</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="img-wrap">
-                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-                                <div class="img-caption">
-                                    <h5>TOP 4%</h5>
-                                    <p>Developer Recruitment Process</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="img-wrap">
-                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-                                <div class="img-caption">
-                                    <h5>10+</h5>
-                                    <p>Years of Collective Experience</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                            <div class="img-wrap">
-                                <img src="/junaid1/assets/img/mix/thumbnail-3.jpg" alt="">
-                                <div class="img-caption">
-                                    <h5>5M+</h5>
-                                    <p>Downloads by Cilent Customers</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/tabing.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/experience-sec.php"); ?>
 
     <section class="stripe weoffer-sec">
         <div class="container">
@@ -386,9 +235,8 @@
                                 </div>
                             </div>
                             <div class="card__content">
-                                <h3>Product Strategy</h3>
-                                <p>Our application developers work and develop a strategy for developing your idea into
-                                    a full-fledged mobile application that your customers would love</p>
+                                <h3>Ideation and Strategy</h3>
+                                <p>Our enterprise mobile app developers will review your ideas and form strategies to create an enterprise app that will impress your customers</p>
                                 <a href="#">Read More</a>
                             </div>
                         </div>
@@ -403,44 +251,8 @@
                                 </div>
                             </div>
                             <div class="card__content">
-                                <h3>UI/UX Design</h3>
-                                <p>Designing an experience assisted by an impeccable interface is the pinnacle of an
-                                    app’s success, and take large measures to ensure your app looks and feels right.</p>
-                                <a href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card__bx card__1">
-                        <div class="card__data">
-                            <div class="card__icon">
-                                <div class="card__icon-bx">
-                                    <i class="fa-solid fa-pen-ruler"></i>
-                                </div>
-                            </div>
-                            <div class="card__content">
-                                <h3>Testing</h3>
-                                <p>Rigorous testing phases are run to ensure the app is free of lags, bugs, and other
-                                    developmental issues which could slow progress or hamper a seamless user experience.
-                                </p>
-                                <a href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="card__bx card__1">
-                        <div class="card__data">
-                            <div class="card__icon">
-                                <div class="card__icon-bx">
-                                    <i class="fa-solid fa-pen-ruler"></i>
-                                </div>
-                            </div>
-                            <div class="card__content">
-                                <h3>Analysis & Planning</h3>
-                                <p>We carefully analyze each process, prepare its findings, and developing intuitive
-                                    strategies to work on the most pressing areas.</p>
+                                <h3>Product Design</h3>
+                                <p>Our team will utilize industry-specific designs to create a result-driven and user-centric enterprise app.</p>
                                 <a href="#">Read More</a>
                             </div>
                         </div>
@@ -456,8 +268,8 @@
                             </div>
                             <div class="card__content">
                                 <h3>App Development</h3>
-                                <p>The most awaited process where our coders get down to go the groundwork by our
-                                    application developers.</p>
+                                <p>We leverage innovative minds and modern technologies to develop unique android and iOS enterprise apps.
+                                </p>
                                 <a href="#">Read More</a>
                             </div>
                         </div>
@@ -472,9 +284,40 @@
                                 </div>
                             </div>
                             <div class="card__content">
-                                <h3>Development & Support</h3>
-                                <p>After complete development, your app idea is deployed on hosting platforms and
-                                    post-launch support is initiated.</p>
+                                <h3>Testing</h3>
+                                <p>Our enterprise mobile app developers will then test your app for bugs and lags.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>UX/UI</h3>
+                                <p>The best kind of app is one that offers the best user experience. So make sure you go to great lengths to make your enterprise app smooth, user-friendly, and secure.</p>
+                                <a href="#">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card__bx card__1">
+                        <div class="card__data">
+                            <div class="card__icon">
+                                <div class="card__icon-bx">
+                                    <i class="fa-solid fa-pen-ruler"></i>
+                                </div>
+                            </div>
+                            <div class="card__content">
+                                <h3>Set Up & Maintenance</h3>
+                                <p>We continue to maintain your enterprise application even after it’s been launched on various platforms. We work around the clock to make sure your enterprise mobile application functions well and without errors.</p>
                                 <a href="#">Read More</a>
                             </div>
                         </div>
@@ -491,12 +334,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>PATIENT-CENTERED SOLUTION</h4>
+                                <h4>Improve Process Efficiency</h4>
                                 <div class="blog-slider__text">
-                                    <p>Are you struggling to avail healthcare services 24/7? Our healthcare app
-                                        development services can allow patients to book appointments, video call, and
-                                        reach out to healthcare experts with just one click. We offer web app solutions
-                                        and custom mobile app development that guaranteed a patient-centered solution.
+                                    <p>We are one of the best enterprise app development companies that analyzes how you operate and recognizes practices that can optimize your work efficiency.
                                     </p>
                                 </div>
                             </div>
@@ -507,12 +347,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>ACCESS TO HEALTHCARE PROVIDERS</h4>
+                                <h4>Support Organizational Agility</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare development solutions allow healthcare providers to check up on
-                                        their patients without meeting in person. Healthcare experts can now diagnose,
-                                        treat, and prescribe meds to their patients using our premium medical mobile
-                                        application.</p>
+                                    <p>Our team tests and implements innovative ideas when developing enterprise mobile applications to help you keep pace with the ever-changing market.</p>
                                 </div>
                             </div>
                         </div>
@@ -522,11 +359,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>CLOUD-BASED SOLUTION</h4>
+                                <h4>Reach New Target Groups</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare app development company utilizes cloud-based telemedicine software
-                                        to help healthcare firms record and maintain the medical records of their
-                                        patients without worrying about a security breach.</p>
+                                    <p>We offer your customers the latest and relevant content via enterprise mobile apps to harness the power of recommendations and boost their interest in your products.</p>
                                 </div>
                             </div>
                         </div>
@@ -536,10 +371,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>EASY BILLING</h4>
+                                <h4>High-Quality Technology</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare mobile app development company streamlines the medical billing
-                                        process to make the task easy for both patients and their healthcare providers.
+                                    <p>There’s no room for mistakes when you are up against several competitors. Our team puts in extra effort to handle the technical aspects of your enterprise app and utilizes the highest quality technology solutions to meet your needs.
                                     </p>
                                 </div>
                             </div>
@@ -550,25 +384,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>EMR & EHR</h4>
+                                <h4>Complete Clarity</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our mobile healthcare app allows you to improve the quality of your healthcare
-                                        services while reducing human error. We allow technicians and healthcare experts
-                                        to utilize effective EMR & EHR solutions to meet their needs.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="box-style">
-                        <div class="blog-slider__item">
-                            <div class="blog-slider__content">
-                                <h4>MEDICAL APPLICATION</h4>
-                                <div class="blog-slider__text">
-                                    <p>Want to improve the efficiency of your firm’s overall healthcare delivery
-                                        services? Our mobile app development for healthcare offers the best remote
-                                        medical services in the USA.</p>
+                                    <p>We keep our clients updated throughout the completion of their enterprise mobile app development to ensure clarity and process transparency.</p>
                                 </div>
                             </div>
                         </div>
@@ -577,72 +395,8 @@
             </div>
         </div>
     </section>
-
-    <section class="stripe">
-        <div class="container">
-            <div class="top-heading text-center">
-                <h3>Testimonials</h3>
-                <p>Read Reviews From Clients That Used Hoff And Mazor On These Platforms Too.</p>
-            </div>
-            <div class="gtco-testimonials carousel-sec">
-                <div class="js-carousel">
-                    <div>
-                        <div class="card text-center"><img class="card-img-top"
-                                src="https://images.unsplash.com/photo-1572561300743-2dd367ed0c9a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=50&w=300"
-                                alt="">
-                            <div class="card-body">
-                                <h5>Ronne Galle <br />
-                                    <span> Project Manager </span>
-                                </h5>
-                                <p class="card-text">“ Nam libero tempore, cum soluta nobis est eligendi optio cumque
-                                    nihil impedit quo minus id quod maxime placeat ” </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="card text-center"><img class="card-img-top"
-                                src="https://images.unsplash.com/photo-1588361035994-295e21daa761?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=301&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=50&w=301"
-                                alt="">
-                            <div class="card-body">
-                                <h5>Missy Limana<br />
-                                    <span> Engineer </span>
-                                </h5>
-                                <p class="card-text">“ Nam libero tempore, cum soluta nobis est eligendi optio cumque
-                                    nihilimpedit quo minus id quod maxime placeat ” </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="card text-center"><img class="card-img-top"
-                                src="https://images.unsplash.com/photo-1575377222312-dd1a63a51638?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=302&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=50&w=302"
-                                alt="">
-                            <div class="card-body">
-                                <h5>Martha Brown<br />
-                                    <span> Project Manager </span>
-                                </h5>
-                                <p class="card-text">“ Nam libero tempore, cum soluta nobis est eligendi optio cumque
-                                    nihil impedit quo minus id quod maxime placeat ” </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="card text-center"><img class="card-img-top"
-                                src="https://images.unsplash.com/photo-1549836938-d278c5d46d20?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=303&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=50&w=303"
-                                alt="">
-                            <div class="card-body">
-                                <h5>Hanna Lisem<br />
-                                    <span> Project Manager </span>
-                                </h5>
-                                <p class="card-text">“ Nam libero tempore, cum soluta nobis est eligendi optio cumque
-                                    nihil impedit quo minus id quod maxime placeat ” </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="js-sliderDots slick-dots sty1"></div>
-            </div>
-        </div>
-    </section>
+    
+    <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/testimonials.php"); ?>
 
 
     <!-- <?php //include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/project-sec.php"); ?> -->

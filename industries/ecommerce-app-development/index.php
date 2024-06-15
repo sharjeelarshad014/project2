@@ -215,7 +215,7 @@
         <div class="container">
             <div class="top-heading text-center mb-5">
                 <h3>WHY CHOOSE US FOR E-Commerce APP CREATION SERVICES?</h3>
-                <p>Hoff & Mazor is an e-commerce app developer that creates custom, user-friendly e-commerce platforms tailored to meet the specific needs of each client. Here are all the reasons you should consider utilizing our e-commerce app development services.</p>
+                <p><?php echo"$brandName";?> is an e-commerce app developer that creates custom, user-friendly e-commerce platforms tailored to meet the specific needs of each client. Here are all the reasons you should consider utilizing our e-commerce app development services.</p>
             </div>
             <div class="row">
                 <div class="col-lg-4">

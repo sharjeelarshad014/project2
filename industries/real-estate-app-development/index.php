@@ -215,7 +215,7 @@
         <div class="container">
             <div class="top-heading text-center mb-5">
                 <h3>WHY CHOOSE US FOR REAL ESTATE APP CREATION SERVICES?</h3>
-                <p>The team at Hoff & Mazor ensures our clients receive the best possible property app development solutions to meet their needs. Here’s why you should choose us!</p>
+                <p>The team at <?php echo"$brandName";?> ensures our clients receive the best possible property app development solutions to meet their needs. Here’s why you should choose us!</p>
             </div>
             <div class="row">
                 <div class="col-lg-4">

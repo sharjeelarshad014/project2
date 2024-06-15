@@ -19,7 +19,7 @@
                                 <i class="ic-34"></i>
                             </div>
                             <div class="accor-accord-1 accor-content" data-accor-id="accord-1" data-accor-name="accordian">
-                                <p hidden>You can invite up to 2 additional users on the Free plan. There is no limit on
+                                <p>You can invite up to 2 additional users on the Free plan. There is no limit on
                                 team members for the Premium plan.</p>
                             </div>
                         </div>
@@ -30,7 +30,7 @@
                                 <i class="ic-34"></i>
                             </div>
                             <div class="accor-accord-2 accor-content" data-accor-id="accord-2" data-accor-name="accordian">
-                                <p hidden>You can invite up to 2 additional users on the Free plan. There is no limit on
+                                <p>You can invite up to 2 additional users on the Free plan. There is no limit on
                                 team members for the Premium plan.</p>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                                 <i class="ic-34"></i>
                             </div>
                             <div class="accor-accord-3 accor-content" data-accor-id="accord-3" data-accor-name="accordian">
-                                <p hidden>You can invite up to 2 additional users on the Free plan. There is no limit on
+                                <p>You can invite up to 2 additional users on the Free plan. There is no limit on
                                 team members for the Premium plan.</p>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                                 <i class="ic-34"></i>
                             </div>
                             <div class="accor-accord-4 accor-content" data-accor-id="accord-4" data-accor-name="accordian">
-                                <p hidden>You can invite up to 2 additional users on the Free plan. There is no limit on
+                                <p>You can invite up to 2 additional users on the Free plan. There is no limit on
                                 team members for the Premium plan.</p>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                                 <i class="ic-34"></i>
                             </div>
                             <div class="accor-accord-4 accor-content" data-accor-id="accord-4" data-accor-name="accordian">
-                                <p hidden>You can invite up to 2 additional users on the Free plan. There is no limit on
+                                <p>You can invite up to 2 additional users on the Free plan. There is no limit on
                                 team members for the Premium plan.</p>
                             </div>
                         </div>

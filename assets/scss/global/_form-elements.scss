@@ -368,8 +368,7 @@ select {
 
     &.btn-primary {
         background: $Pri-gred;
-        border-color: transparent;
-        border: 0;
+        border: 1px solid $white;
         color: $white;
 
         &:not(:disabled):not(.disabled).active:focus,
@@ -386,7 +385,7 @@ select {
         &:focus {
             background:  $iPrimary;
             border-color: $iPrimary;
-            border: 1px;
+            border: 1px solid $white;
             color: $white;
         }
 

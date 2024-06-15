@@ -1,11 +1,18 @@
 		.get-in-touch {
 		    padding: 20px;
+
+			@media (max-width: 991px) {
+				padding: 20px 0;
+			}
 		}
 
 		.contact-form {
 		    .form-field {
 		        position: relative;
 		        margin: 25px 0;
+				@media (max-width: 991px) {
+					margin: 5px 0;
+				}
 		    }
 		}
 
@@ -27,6 +34,10 @@
 		                transform: translateY(-24px);
 		            }
 		        }
+				@media (max-width: 991px) {
+					border-radius: 5px;
+					padding-left: 10px;
+				}
 		    }
 		}
 
@@ -102,10 +113,20 @@
 
 		    .q-a {
 		        font-size: 0.95rem;
-		        border-bottom:
-		            1.5px solid var(--light-grayish-blue);
+		        border-bottom: 1.5px solid var(--light-grayish-blue);
 		        padding-bottom: 1.05em;
 		        margin-top: 1.05em;
+
+				&.is-active{
+					.accor-content{
+						display: block;
+					}
+					.q-wrapper{
+						i{
+							transform: rotate(270deg);
+						}
+					}
+				}
 		    }
 
 		    .q-wrapper {
@@ -113,7 +134,23 @@
 		        grid-template-columns: 1fr auto;
 		        border-bottom: 1px solid black;
 		        border-radius: 0px 0px 2px 2px;
+
+				i{
+					transform: rotate(90deg);
+					font-size: 14px;
+					width: 20px;
+					height: 20px;
+					margin: 0 0 0 -30px;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					transition: all .35s ease;	
+				}
 		    }
+
+			.accor-content{
+				display: none;
+			}
 
 		    h3 {
 		        font-size: 15px;

@@ -1,13 +1,13 @@
 <?php
-   $brandName= 'Pixel Appy';
-   $brandNameUp= 'Pixel Appy';
+   $brandName= 'The Scrapps';
+   $brandNameUp= 'THE SCRAPPS';
    $brandShortCapsName= "";
-   $brandTFN= '+6-531 59 2494';
+   $brandTFN= '';
    $brandLocal= '';
    $brandShortLocal= '';
-   $brandDomain= 'premiumpaysol.com';
+   $brandDomain= 'thescrapps.com';
    $brandAddress= '';
-   $brandShortName='premiumpaysol';
+   $brandShortName='';
    $cversion='1.1';
 ?>
 

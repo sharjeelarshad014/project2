@@ -88,5 +88,8 @@
     &.inner{
         padding: 190px 0 100px;
         min-height: 650px;
+        @media (max-width: 991px) {
+            min-height: auto;
+        }
     }
 }

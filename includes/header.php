@@ -34,15 +34,36 @@
 						<a href="/junaid1/about-us">About Us</a>
 					</li>
 					<li>
-						<a href="javascript:;">Industries</a>
+						<a href="javascript:;">Services</a>
 						<ul class="dropdown">
-							<li><a href="/services/mobile-app-development.php">Mobile App Development </a></li>
+							<li><a href="/junaid1/services/mobile-app-dev">Mobile App Development </a></li>
+							<li><a href="/junaid1/services/ios-app-dev/">IAO App Development </a></li>
+							<li><a href="/junaid1/services/android-app-dev/">Android App Development</a></li>
+							<li><a href="/junaid1/services/game-app-dev/">Game App Development</a></li>
+							<li><a href="/junaid1/services/enterprise-app-dev">Enterprise Mobile App Development</a></li>
+							<li><a href="/junaid1/services/hybrid-app-dev">Hybrid Mobile App Development</a></li>
+							<li><a href="/junaid1/services/prototype-app-dev">Prototype Mobile App Development</a></li>
+							<li><a href="/junaid1/services/react-native-app-dev">React Native App Development</a></li>
+							<li><a href="/junaid1/services/nft-dev">NFT Development</a></li>
+							<li><a href="/junaid1/services/wearable-app-dev">Wearable App Development</a></li>
+							<li><a href="/junaid1/services/crossplateform-dev">Cross-Platform App Development</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="javascript:;">Services</a>
+						<a href="javascript:;">Industries</a>
 						<ul class="dropdown">
-							<li><a href="/services/mobile-app-development.php">Mobile App Development </a></li>
+							<li><a href="/junaid1/industries/healthcare-app-development">Healthcare App Development </a></li>
+							<li><a href="/junaid1/industries/taxi-app-development">Taxi App Development </a></li>
+							<li><a href="/junaid1/industries/real-estate-app-development">Real Estate Mobile App Development </a></li>
+							<li><a href="/junaid1/industries/ecommerce-app-development">Ecommerce App Development </a></li>
+							<li><a href="/junaid1/industries/restaurant-app-development">Restaurant App Development </a></li>
+							<li><a href="/junaid1/industries/manufacturing-app-development">Manufacturing App Development </a></li>
+							<li><a href="/junaid1/industries/retail-app-development">Retail App Development </a></li>
+							<li><a href="/junaid1/industries/fitness-app-development">Fitness App Development </a></li>
+							<li><a href="/junaid1/industries/upi-payment-app-development">UPI Payment App Development </a></li>
+							<li><a href="/junaid1/industries/pdf-app-development">PDF App Development </a></li>
+							<li><a href="/junaid1/industries/ride-sharing-app-development">Ride Sharing App</a></li>
+							<li><a href="/junaid1/industries/parking-space-app-development">Parking SpaceApp</a></li>
 						</ul>
 					</li>
 					<li>

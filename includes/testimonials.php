@@ -2,10 +2,10 @@
         <div class="container">
             <div class="top-heading text-center">
                 <h3>Testimonials</h3>
-                <p>Read Reviews From Clients That Used Hoff And Mazor On These Platforms Too.</p>
+                <p>Read Reviews From Clients That Used <?php echo"$brandName";?> On These Platforms Too.</p>
             </div>
             <div class="gtco-testimonials carousel-sec">
-                <div class="js-carousel">
+                <div class="js-carousel" data-item-desktop="3" data-item-desktopmini="3" data-item-ipad-pro="2" data-item-tablet="1" data-item-mobile="1">
                     <div>
                         <div class="card text-center"><img class="card-img-top"
                                 src="https://images.unsplash.com/photo-1572561300743-2dd367ed0c9a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=50&w=300"
