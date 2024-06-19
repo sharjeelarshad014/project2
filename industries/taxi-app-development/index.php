@@ -23,7 +23,7 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="banner-content sty1">
                         <h3>PREMIUM TAXI APP DEVELOPMENT COMPANY AT YOUR SERVICE</h3>
-                        <p>Looking to hire reliable taxi app development services? Look no further than <?php echo"$brandName";?>.</p>
+                        <p>Looking to hire reliable taxi app development services? Look no further than Hoff & Mazor.</p>
                         <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
                             <a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>
                             <a href="javascript:;" class="btn btn-transparent">Live Chat</a>
@@ -165,7 +165,7 @@
                         <h6>PROFESSIONAL TAXI BOOKING APP DEVELOPMENT SERVICES</h6>
                         <p>We are a professional taxi app development company that can optimize your fleet business and help you track, monitor, and generate invoices with your vehicles online.</p>
                         <p>Part-time employees, high-ranking officials, or businessmen wish to connect with drivers to commute to work daily, which is why your uber-like taxi app solution is much needed. The Taxi app solution allows customers to book taxis, limousines, private jets/helicopters, and car rental services at the tip of their fingertips.</p>
-                        <p><?php echo"$brandName";?> is a professional taxi app development company that can optimize your fleet business and help you track, monitor, and generate invoices with your vehicles online.</p>
+                        <p>Hoff & Mazor is a professional taxi app development company that can optimize your fleet business and help you track, monitor, and generate invoices with your vehicles online.</p>
                         <p>Start your taxi booking app with our custom taxi booking app development services. Whether you want something revolutionary built from scratch or an uber-like app, we can create one for you.</p>
                     </div>
                 </div>

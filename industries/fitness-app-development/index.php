@@ -22,8 +22,8 @@
             <div class="row h-100">
                 <div class="col-lg-6 align-self-center">
                     <div class="banner-content sty1">
-                        <h3>TOP-NOTCH HEALTHCARE APP DEVELOPMENT SERVICES BRINGS INNOVATIVE HEALTHCARE SOLUTIONS</h3>
-                        <p>We offer premium healthcare application development services to help organizations adhere to industry-leading technology solutions to improve the healthcare experience globally.</p>
+                        <h3>BEST FITNESS APP DEVELOPMENT AGENCY</h3>
+                        <p>Helping you build a simple yet result-driven Fitness App that empowers your users to take full control of their lives and achieve their health goals. It's time to hire the best fitness app development services in the business.</p>
                         <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
                             <a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>
                             <a href="javascript:;" class="btn btn-transparent">Live Chat</a>
@@ -79,9 +79,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>PATIENT-CENTERED SOLUTION</h4>
+                                <h4>PERSONALIZED WORKOUT PLANS</h4>
                                 <div class="blog-slider__text">
-                                    <p>Are you struggling to avail healthcare services 24/7? Our healthcare app development services can allow patients to book appointments, video call, and reach out to healthcare experts with just one click. We offer web app solutions and custom mobile app development that guaranteed a patient-centered solution.</p>
+                                    <p>Tailored fitness solutions that perfectly adjust to each user's unique needs and requirements to bring about the best results.</p>
                                 </div>
                             </div>
                         </div>
@@ -91,9 +91,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>ACCESS TO HEALTHCARE PROVIDERS</h4>
+                                <h4>PROGRESS TRACKING AND ANALYTICS</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare development solutions allow healthcare providers to check up on their patients without meeting in person. Healthcare experts can now diagnose, treat, and prescribe meds to their patients using our premium medical mobile application.</p>
+                                    <p>Record everything on an app so that your users know all about your progress to make the right decisions.</p>
                                 </div>
                             </div>
                         </div>
@@ -103,9 +103,9 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>CLOUD-BASED SOLUTION</h4>
+                                <h4>NUTRITIONAL GUIDANCE AND MEAL PLANNING</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our healthcare app development company utilizes cloud-based telemedicine software to help healthcare firms record and maintain the medical records of their patients without worrying about a security breach.</p>
+                                    <p>Help your audience access accurate nutritional guidance so that they can plan their meals according to their goals.</p>
                                 </div>
                             </div>
                         </div>
@@ -115,7 +115,7 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>EASY BILLING</h4>
+                                <h4>SOCIAL FEATURES AND CHALLENGES</h4>
                                 <div class="blog-slider__text">
                                     <p>Our healthcare mobile app development company streamlines the medical billing process to make the task easy for both patients and their healthcare providers.</p>
                                 </div>
@@ -127,7 +127,7 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>EMR & EHR</h4>
+                                <h4>WORKOUT VIDEOS AND TUTORIALS</h4>
                                 <div class="blog-slider__text">
                                     <p>Our mobile healthcare app allows you to improve the quality of your healthcare services while reducing human error. We allow technicians and healthcare experts to utilize effective EMR & EHR solutions to meet their needs.</p>
                                 </div>
@@ -139,7 +139,7 @@
                     <div class="box-style">
                         <div class="blog-slider__item">
                             <div class="blog-slider__content">
-                                <h4>MEDICAL APPLICATION</h4>
+                                <h4>INTEGRATION WITH WEARABLE DEVICES AND FITNESS TRACKERS</h4>
                                 <div class="blog-slider__text">
                                     <p>Want to improve the efficiency of your firm’s overall healthcare delivery services? Our mobile app development for healthcare offers the best remote medical services in the USA.</p>
                                 </div>
