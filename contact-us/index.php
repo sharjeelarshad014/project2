@@ -21,7 +21,7 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="banner-content sty1">
                         <h3>Connect With Us!</h3>
-                        <p>Get in touch with us to explore endless possibilities and discuss how we can turn your ideas into exceptional digital solutions. Reach out today for a collaborative journey toward success.</p>
+                        <p>Contact us to explore limitless possibilities and discuss how we can transform your ideas into outstanding digital solutions. Reach out today to embark on a collaborative journey toward success</p>
                     </div>
                 </div>
             </div>

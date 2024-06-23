@@ -42,8 +42,8 @@
 			<div class="row justify-content-between">
 					<div class="col-lg-6 align-self-center">
 						<div class="web-content sty1" data-aos="fade-right">
-							<h5><?php echo"$brandName";?> Is An American App Development Company That Has Helped Many Top Brands Power Up Their Digital</h5>
-							<p>We Are Proud Of The Fact That We Have Assisted Hundreds Of Entrepreneurs, Government Agencies And Fortune 500 Companies Creating And Maintaining Their Digital Solutions. With years of experience in the field, <?php echo"$brandName";?> has been a trusted industry leader, serving both the USA and UAE regions in providing app development services.</p>
+							<h5>WE FORGE DYNAMIC PARTNERSHIPS WITH INDUSTRY LEADERS.</h5>
+							<p>Located in the USA, Scrapps specializes in the mobile app, iOS app, gaming app, prototype app, MVP app, NFT app, and machine learning app development. With a Robust track record and partnerships with top brands, we deliver innovative solutions that drive business growth. Partner with us to turn your Proposals into impactful digital experiences.</p>
 							<a href="/portfolio.php" class="btn btn-primary">Read more</a>
 						</div>
 					</div>
@@ -331,7 +331,8 @@
 				<div class="col-lg-6 align-self-center">
 					<div class="section-content">
 						<h3>The Preference Of Top Companies</h3>
-						<p>At <?php echo"$brandName";?>, We Transform Brands By Generating Ideas, Building Products And Accelerating Growth. We Go The Extra Mile To Adopt Innovation, The Latest Technologies And Seamless Procedures Which Stands Us Out From The Competition.</p>
+						<p>At <?php echo"$brandName";?>, we reshape brands through ideation, product development, and accelerated growth. We strive for innovation, leveraging state-of-the-art technologies and efficient
+						processes that distinguish us from our competitors</p>
 					</div>
 				</div>
 				<div class="col-lg-4">
@@ -351,7 +352,8 @@
 								<div class="blog-slider__content">
 									<h4>Customer Relationship</h4>
 									<div class="blog-slider__text">
-										<p>Our team of developers are proficient in creating a niche-tailored app for your brand which enhances your relationship with the customers. Get an app designed for your brand today!</p>
+										<p>Our expert team of developers specializes in crafting customized apps tailored to enhance your brand's customer relationships. Elevate your brand with a bespoke app designed just
+										for you. Contact us today to get started!</p>
 									</div>
 								</div>
 							</div>
@@ -366,7 +368,8 @@
 								<div class="blog-slider__content">
 									<h4>Stronger Brand</h4>
 									<div class="blog-slider__text">
-										<p>The mission of our company is to create apps for our clients that can build credibility, familiarity and trust with their customers. Resultantly, our clients enjoy a stronger brand with enhanced brand awareness and increased customer loyalty.</p>
+										<p>Our company's mission is to develop apps that help our clients build credibility, foster familiarity, and instill trust with their customers. This approach leads to a stronger brand
+										presence, increased brand awareness, and enhanced customer loyalty</p>
 									</div>
 								</div>
 							</div>
@@ -381,7 +384,7 @@
 								<div class="blog-slider__content">
 									<h4>Customer Insights</h4>
 									<div class="blog-slider__text">
-										<p>Customer data is one of the most important marketing tools that brands can use to improve their products and target customers more efficiently. Design an app with us and enjoy the treasure of customer insights.</p>
+										<p>Effective utilization of customer data is paramount for brands looking to refine their product offerings and optimize customer targeting. Partner with us to design an app and harness the wealth of customer insights available.</p>
 									</div>
 								</div>
 							</div>
@@ -396,7 +399,7 @@
 								<div class="blog-slider__content">
 									<h4>Competitive Edge</h4>
 									<div class="blog-slider__text">
-										<p>In this age of cut-throat competition, brands find it hard to survive. At <?php echo"$brandName";?>, we are experts in transforming the digital presence of our clients to give them a competitive edge in the market. Hire us to remodel your brand.</p>
+										<p>In the current era of intense competition, brands struggle to maintain their foothold. At The Scrapps, we excel in revitalizing our clients' digital presence to give them a decisive edge in the market. Engage our services to transform your brand effectively.</p>
 									</div>
 								</div>
 							</div>

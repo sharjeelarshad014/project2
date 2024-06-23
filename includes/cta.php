@@ -5,7 +5,7 @@
 					<div class="col-lg-6">
 						<div class="project-content">
 							<h3 data-aos="fade-right">Let's Discuss Your Project</h3>
-							<p data-aos="fade-right"> Get Free Consultation And Let Us Know Your Project Idea To Turn It Into An Amazing Digital Product.</p>
+							<p data-aos="fade-right">Evolve your project idea into an outstanding digital product with our complimentary consultation.</p>
 							<div class="project-btn">
 								<a href="/contact-us.php" class="btn btn-white" data-aos="fade-right" data-aos-duration="500">Get a Quote</a>
 								<a href="javascript:;" class="btn btn-black" data-aos="fade-right" data-aos-duration="1000">Live Chat</a>
