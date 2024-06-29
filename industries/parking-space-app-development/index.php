@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>Parking Space App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -156,7 +156,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img.png" alt="">
+                        <img src="/junaid1/assets/img/mix/park-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -168,7 +168,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row mt-5">
                 <div class="col-lg-6">
                     <div class="section-content">
                         <h3>LOCATE THE PERFECT PARKING SPOT WITH OUR APP TO RENT PARKING SPACE</h3>
@@ -180,7 +180,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img2.png" alt="">
+                        <img src="/junaid1/assets/img/mix/park-2.png" alt="">
                     </div>
                 </div>
             </div>
@@ -203,7 +203,7 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="project-img" data-aos="zoom-out-left">
-							<img src="/junaid1/assets/img/mix/why-choose-img.avif" alt="">
+							<img src="/junaid1/assets/img/mix/park-cta1.png" alt="">
 						</div>
 					</div>
 				</div>

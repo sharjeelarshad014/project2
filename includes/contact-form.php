@@ -5,12 +5,12 @@
 					<div class="col-lg-5">
 						<div class="project-content">
 							<h3 data-aos="fade-right">Tell Us About Your Project</h3>
-							<p data-aos="fade-right">Your Robust Mobile App Awaits The Market. We Can Help</p>
+							<p data-aos="fade-right">Your robust mobile app is ready to take the market by storm. We're here to help you make that happen</p>
 						</div>
 						<div class="project-content">
 							<h3 data-aos="fade-right">What To Expect Now?</h3>
-							<p data-aos="fade-right">Our team will get in touch within 24 hours to have a conversation with you and discuss your idea further.</p>
-							<p data-aos="fade-right">We will then collect all the requirements and overview of what kind of mobile app you are looking for</p>
+							<p data-aos="fade-right">Our team will reach out to you within 24 hours to discuss your project idea in detail.</p>
+							<p data-aos="fade-right">We'll collect all the necessary information and gain a comprehensive understanding of the type of mobile app you're envisioning.</p>
 						</div>
 					</div>
 					<div class="col-lg-7">

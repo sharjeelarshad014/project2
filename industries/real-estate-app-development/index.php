@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>Real Estate App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -157,7 +157,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img.png" alt="">
+                        <img src="/junaid1/assets/img/mix/real-img1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -171,16 +171,16 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <div class="section-content">
-                        <p><strong>USER-FRIENDLY APP DEVELOPMENT</strong></p>
-                        <p>OOur real estate app solutions are designed to be intuitive and user-friendly, enabling property owners to navigate and utilize the app effortlessly. With our solutions, property owners can access comprehensive information about their properties, including lease details, tenant information, and maintenance schedules, all in one centralized location.</p>
-                        <p>Overall, our real estate app solutions provide property owners with a streamlined and effective way to manage their properties, whether commercial or residential, ensuring enhanced productivity and tenant satisfaction.</p>
+                        <h3>USER-FRIENDLY APP DEVELOPMENT</h3>
+                        <p>Property owners will find it simple to navigate and utilize our real estate app solutions because they are made to be straightforward and user-friendly. Property owners can get all the information they need about their properties, such as maintenance schedules, tenant details, and lease details, in one location with our app solutions.</p>
+                        <p>All things considered, our real estate software solutions give property owners a practical and successful approach to manage their assets, whether they are residential or commercial.</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img2.png" alt="">
+                        <img src="/junaid1/assets/img/mix/real-img2.png" alt="">
                     </div>
                 </div>
             </div>

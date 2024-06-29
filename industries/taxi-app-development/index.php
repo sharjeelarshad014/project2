@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>Taxi App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -22,7 +22,7 @@
             <div class="row h-100">
                 <div class="col-lg-6 align-self-center">
                     <div class="banner-content sty1">
-                        <h3>Premier Taxi App Development Company at Your Service</h3>
+                        <h3>Premium Taxi App Development Company at Your Service</h3>
                         <p>Seeking dependable taxi app development services? Look no further than The Scrapps We offer exceptional, customized solutions to meet your specific needs, ensuring reliability and excellence in every project.</p>
                         <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
                             <a href="/contact-us.php" class="btn btn-primary">Get a Quote</a>
@@ -156,14 +156,15 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img.png" alt="">
+                        <img src="/junaid1/assets/img/mix/taxi-img1.png" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <div class="section-content">
                         <h3>TAXI BOOKING APP</h3>
                         <h6>PROFESSIONAL TAXI BOOKING APP DEVELOPMENT SERVICES</h6>
-                        <p>We specialize in optimizing your fleet business with our comprehensive taxi app solutions. Track, monitor, and generate invoices online, providing a seamless experience for part-time employees, high-ranking officials, and business professionals needing daily commutes. Whether it's a revolutionary new app or an Uber-like solution, we can build it for you.</p>
+                        <p>The Scrapps is an expert taxi app development firm committed to helping you track, monitor, and create online invoicing using your fleet of vehicles in order to maximize your fleet business. Our Uber-like taxi app solution is extremely important because it serves businesspeople, high-ranking officials, and part-time employees who need to connect with drivers for their daily commute. Customers can conveniently book limos, private planes and helicopters, taxis, and automobile rentals at their fingertips with our taxi app solution.</p>
+                        <p>We are skilled in developing cutting-edge applications from the ground up as well as customized Uber-like apps. With our custom taxi booking app development services, get started on your taxi booking app journey. We provide integrated payment options, a slick interface, and on-demand taxi app development. We make sure your app works smoothly and effectively for you and your clients, improving the general performance and profitability of your fleet business.</p>
                     </div>
                 </div>
             </div>

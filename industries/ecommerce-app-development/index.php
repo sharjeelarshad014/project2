@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>E-Commerce App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -129,7 +129,7 @@
                             <div class="blog-slider__content">
                                 <h4>MOBILE WALLET DEVELOPMENT</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our mobile healthcare app allows you to improve the quality of your healthcare services while reducing human error. We allow technicians and healthcare experts to utilize effective EMR & EHR solutions to meet their needs.</p>
+                                    <p>In order to provide digital payment solutions that let users save and use their credit card information on their mobile devices, our team develops mobile wallets.</p>
                                 </div>
                             </div>
                         </div>
@@ -156,10 +156,10 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img.png" alt="">
+                        <img src="/junaid1/assets/img/mix/qfc-main.png" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <div class="section-content">
                         <h3>APP DEVELOPMENT SERVICES</h3>
                         <h6>E-COMMERCE APP DEVELOPMENT SERVICES AIMED AT BOOSTING CONVERSION RATES AND CUSTOMER RETENTION!</h6>
@@ -171,16 +171,16 @@
             </div>
             
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <div class="section-content">
-                        <p><strong>OUR SOLUTIONS</strong></p>
+                        <h3>OUR SOLUTIONS</h3>
                         <p>Our e-commerce app development solutions are designed to be scalable, flexible, and easy to use. This makes it easier for businesses to integrate new features and functionality as they grow and evolve. Additionally, we built using the latest technologies, ensuring our apps are secure, reliable, and fast.</p>
                         <p>Our e-commerce app development solutions are designed to help businesses grow and succeed in the competitive e-commerce landscape. Our skills, experience, and reliability make us an ideal partner for businesses looking to take their e-commerce operations to the next level.</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img2.png" alt="">
+                        <img src="/junaid1/assets/img/mix/ec-02.png" alt="">
                     </div>
                 </div>
             </div>

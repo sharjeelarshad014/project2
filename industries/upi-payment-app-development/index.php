@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>UPI Payment App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -154,9 +154,9 @@
     <section class="stripe">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img.png" alt="">
+                        <img src="/junaid1/assets/img/mix/upi-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -164,19 +164,7 @@
                         <h3>UPI PAYMENTS APP SOLUTIONS” TAILORED TO YOUR DISTINCT BUSINESS REQUIREMENTS</h3>
                         <p>In today's rapidly evolving digital landscape, UPI (Unified Payments Interface) has transformed the way transactions are conducted, offering a seamless and convenient payment experience. Realizing the full potential of UPI payments necessitates the development of a sophisticated UPI payment application.</p>
                         <p>At The Scrapps, our UPI payment app development firm specializes in crafting state-of-the-art UPI payment apps that redefine user interactions with financial transactions. With our UPI payment app, you can provide your users with a myriad of exceptional features and advantages. Our developers seamlessly integrate popular payment methods, such as bank transfers and e-wallets, into a unified app interface, ensuring users enjoy a seamless and hassle-free experience. Empower your users to conduct quick and secure transactions, whether they are making online purchases, settling bills, or transferring funds to friends and family.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="section-content">
                         <p>We take pride in our ability to deliver innovative UPI payment app development services. From streamlined registration and account setup to contact list integration, QR code scanning for payments, transaction tracking and receipts, request money functionalities and robust security protocols, our UPI payment app encompasses it all.</p>
-                        <p>Partnering with us grants you access to a team of dedicated professionals committed to delivering top-tier solutions. Reach out to us today, and let's collaborate to create an exceptional UPI payment app that establishes new benchmarks for convenience, security,and financial empowerment.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img2.png" alt="">
                     </div>
                 </div>
             </div>
@@ -199,7 +187,7 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="project-img" data-aos="zoom-out-left">
-							<img src="/junaid1/assets/img/mix/why-choose-img.avif" alt="">
+							<img src="/junaid1/assets/img/mix/upi-cta-img1.png" alt="">
 						</div>
 					</div>
 				</div>

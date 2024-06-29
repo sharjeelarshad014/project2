@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>Retail App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -159,7 +159,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img.png" alt="">
+                        <img src="/junaid1/assets/img/mix/retail-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -174,8 +174,9 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <div class="section-content">
+                        <h3>HIRE RETAIL APP DEVELOPERS NOW</h3>
                         <p>Our retail application development services offer significant benefits to businesses by amplifying their online presence and fostering growth. With expertise in eCommerce solution development, businesses can enhance their online shopping experience, elevate customer satisfaction, and provide unparalleled user experiences.</p>
                         <p>Our adept team of developers specializes in crafting iOS, Android, and web applications, as well as other digital solutions, tailored to each business's specific requirements. By harnessing technology and optimizing the customer journey, businesses can surpass their objectives, unlock their online potential, and achieve sustained success in the competitive retail landscape.</p>
                         <p>Embrace our retail mobile application development services to thrive in the dynamic digital landscape.</p>
@@ -183,7 +184,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="image-wrap">
-                        <img src="/junaid1/assets/img/mix/h-care-img2.png" alt="">
+                        <img src="/junaid1/assets/img/mix/retail-2.png" alt="">
                     </div>
                 </div>
             </div>

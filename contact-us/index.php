@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 	<?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-	<title>Industries Healthcare | <?php echo "$brandName";?></title>
+	<title>Contact Us| <?php echo "$brandName";?></title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />

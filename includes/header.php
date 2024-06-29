@@ -37,7 +37,7 @@
 						<a href="javascript:;">Services</a>
 						<ul class="dropdown">
 							<li><a href="/junaid1/services/mobile-app-dev">Mobile App Development </a></li>
-							<li><a href="/junaid1/services/ios-app-dev/">IAO App Development </a></li>
+							<li><a href="/junaid1/services/ios-app-dev/">IOS App Development </a></li>
 							<li><a href="/junaid1/services/android-app-dev/">Android App Development</a></li>
 							<li><a href="/junaid1/services/game-app-dev/">Game App Development</a></li>
 							<li><a href="/junaid1/services/enterprise-app-dev">Enterprise Mobile App Development</a></li>
@@ -94,34 +94,6 @@
 						<span></span>
 					</div>
 				</div>
-				<ul>
-					<li>
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Search">
-							<i class="fa-solid fa-magnifying-glass"></i>
-						</div>
-					</li>
-					<li class="pl-0">
-						<a href="./about-us/">About Us</a>
-					</li>
-					<li>
-						<a href="javascript:;">ESG</a>
-					</li>
-					<li>
-						<a href="javascript:;">Project</a>
-					</li>
-					<li>
-						<a href="javascript:;">Vanadium</a>
-					</li>
-					<li class="button-sty">
-						<div class="social-ic">
-							<img src="./assets/img/mix/social-icon.png" alt="">
-						</div>
-						<a href="javascript:;">Contact</a>
-					</li>
-					
-			
-				</ul>
 			</div>
 			<div class="btn-area">
 				<a href="javascript:;" class="btn btn-primary">Live Chat</a>
