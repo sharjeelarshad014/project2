@@ -174,8 +174,10 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="section-content">
                         <h3>USER-FRIENDLY APP DEVELOPMENT</h3>
-                        <p>Property owners will find it simple to navigate and utilize our real estate app solutions because they are made to be straightforward and user-friendly. Property owners can get all the information they need about their properties, such as maintenance schedules, tenant details, and lease details, in one location with our app solutions.</p>
-                        <p>All things considered, our real estate software solutions give property owners a practical and successful approach to manage their assets, whether they are residential or commercial.</p>
+                        <p>Our real estate app solutions are designed to be intuitive and user-friendly, enabling property owners to navigate and utilize the app effortlessly. With our solutions, property owners can access comprehensive information about their properties, including lease details, tenant information, and maintenance schedules, all in one centralized location.
+                        </p>
+                        <p>Overall, our real estate app solutions provide property owners with a streamlined and effective way to manage their properties, whether commercial or residential, ensuring enhanced productivity and tenant satisfaction.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -193,7 +195,8 @@
         <div class="container">
             <div class="top-heading text-center mb-5">
                 <h3>WHY CHOOSE US FOR REAL ESTATE APP CREATION SERVICES?</h3>
-                <p>The team at Hoff & Mazor ensures our clients receive the best possible property app development solutions to meet their needs. Here’s why you should choose us!</p>
+                <p>Take advantage of a complimentary consultation to share your project ideas and turn them into outstanding digital solutions.
+                </p>
             </div>
             <div class="row">
                 <div class="col-lg-4">
@@ -226,8 +229,8 @@
                             <div class="blog-slider__content">
                                 <h4>DELIVERY ON TIME</h4>
                                 <div class="blog-slider__text">
-                                    <p>Committed to punctuality, we guarantee on-time delivery of app solutions. Our real estate
-                                    app developers utilize agile methodologies to ensure projects are completed as scheduled.</p>
+                                    <p>Committed to punctuality, we guarantee on-time delivery of app solutions. Our real estate app developers utilize agile methodologies to ensure projects are completed as scheduled.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -241,7 +244,8 @@
                             <div class="blog-slider__content">
                                 <h4>EXTENSIBLE ENGAGEMENT CHOICES:</h4>
                                 <div class="blog-slider__text">
-                                    <p>Our real estate app development agency offers versatile engagement models, providing clients with different options such as on-site and off-site models for greater flexibility in the development process.</p>
+                                    <p>Our real estate app development agency offers versatile engagement models, providing clients with different options such as on-site and off-site models for greater flexibility in the development process.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -253,8 +257,8 @@
                             <div class="blog-slider__content">
                                 <h4>AGILE DEVELOPMENT METHOD</h4>
                                 <div class="blog-slider__text">
-                                    <p>We employ an agile development methodology that prioritizes flexibility and adaptability. This
-                                    approach allows for quick and efficient adjustments, resulting in superior final products.</p>
+                                    <p>We employ an agile development methodology that prioritizes flexibility and adaptability. This approach allows for quick and efficient adjustments, resulting in superior final products.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -266,8 +270,7 @@
                             <div class="blog-slider__content">
                                 <h4>COE MODEL FOR DELIVERY</h4>
                                 <div class="blog-slider__text">
-                                    <p>Following a Center of Excellence (COE) model for delivery, we ensure property owners
-                                    receive high-quality solutions tailored to their specific needs and requirements.</p>
+                                    <p>Following a Center of Excellence (COE) model for delivery, we ensure property owners receive high-quality solutions tailored to their specific needs and requirements.</p>
                                 </div>
                             </div>
                         </div>

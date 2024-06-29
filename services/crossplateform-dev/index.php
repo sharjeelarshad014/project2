@@ -91,7 +91,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-display"></i></span>
                         </div>
                         <h3 class="title">Seamless Cross-Platform Experience</h3>
                         <p class="description">Our skilled programmers develop cross-platform apps that seamlessly run on multiple devices and operating systems, ensuring a consistent user experience across platforms.</p>
@@ -101,7 +101,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-file-code"></i></span>
                         </div>
                         <h3 class="title">Efficient Code Sharing</h3>
                         <p class="description">Leveraging the power of cross-platform frameworks, we optimize code reuse, reducing development time and costs while maintaining high-quality standards for your app.</p>
@@ -111,7 +111,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-pen-to-square"></i></span>
                         </div>
                         <h3 class="title">Customized UI/UX Design</h3>
                         <p class="description">Our designers create captivating user interfaces and intuitive experiences tailored to each platform, enhancing user engagement and satisfaction.</p>
@@ -121,7 +121,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-arrow-right-to-bracket"></i></span>
                         </div>
                         <h3 class="title">Seamless Integration</h3>
                         <p class="description">We seamlessly integrate cross-platform apps with APIs, third-party services, and backend systems, ensuring smooth data exchange and functionality across platforms.</p>
@@ -131,7 +131,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-regular fa-star"></i></span>
                         </div>
                         <h3 class="title">Thorough Quality Assurance</h3>
                         <p class="description">Our rigorous testing processes guarantee robust performance, smooth functionality, and a bug-free experience on all targeted platforms.</p>
@@ -141,7 +141,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-code"></i></span>
                         </div>
                         <h3 class="title">Offshore Development Advantage</h3>
                         <p class="description">Our offshore cross-platform app making services offer you access to a highly skilled team, cost-efficiency, and timely project delivery, enabling you to leverage the benefits of cross-platform app development effectively</p>
