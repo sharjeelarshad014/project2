@@ -10,9 +10,9 @@
 							</a>
 							<p>The Scrapps is your go-to destination for all your app development needs. With a team of experienced and innovative developers, we specialize in creating custom mobile applications tailored to your specific requirements. Whether you're looking for a sleek and intuitive user interface, robust functionality, or seamless integration across platforms, The Scrapps delivers top-notch solutions that exceed expectations.</p>
 							<ul class="social-link">
-								<li><a href="https://www.facebook.com/PIXELAPPY?mibextid=ZbWKwL" target="_blank"><i class="ic-11"></i></a></li>
-								<li><a href="https://www.instagram.com/pixelappyllc?igsh=MXZuemc2YW5pajdsNw==" target="_blank"><i class="ic-12"></i></a></li>
-								<li><a href="https://www.linkedin.com/company/pixel-appy/?viewAsMember=true" target="_blank"><i class="ic-13"></i></a></li>
+								<li><a href="#" target="_blank"><i class="ic-11"></i></a></li>
+								<li><a href="#" target="_blank"><i class="ic-12"></i></a></li>
+								<li><a href="#" target="_blank"><i class="ic-13"></i></a></li>
 								<!--<li><a href="javascript:;"><i class="ic-14"></i></a></li>-->
 							</ul>
 						</div>
