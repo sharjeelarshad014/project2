@@ -34,7 +34,7 @@
 						<a href="/junaid1/about-us">About Us</a>
 					</li>
 					<li>
-						<a href="javascript:;">Services</a>
+						<a href="javascript:;">Services <i class="ic-18"></i></a>
 						<ul class="dropdown">
 							<li><a href="/junaid1/services/mobile-app-dev">Mobile App Development </a></li>
 							<li><a href="/junaid1/services/ios-app-dev/">IOS App Development </a></li>
@@ -50,7 +50,7 @@
 						</ul>
 					</li>
 					<li>
-						<a href="javascript:;">Industries</a>
+						<a href="javascript:;">Industries <i class="ic-18"></i></a>
 						<ul class="dropdown">
 							<li><a href="/junaid1/industries/healthcare-app-development">Healthcare App Development </a></li>
 							<li><a href="/junaid1/industries/taxi-app-development">Taxi App Development </a></li>

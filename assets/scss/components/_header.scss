@@ -143,13 +143,15 @@
             position: relative;
 
             >a {
-                @include fontCalcSize(20, 12);
+                @include fontCalcSize(20, 17);
                 color: $black;
                 font-weight: 600;
                 text-transform: uppercase;
-                display: block;
                 position: relative;
                 padding: 6px 0;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
                 transition: all .35s ease;
 
                 &:before {
@@ -163,6 +165,18 @@
                     height: 2px;
                     background-color: $iPrimary;
                     transition: all .35s ease;
+                }
+
+                i {
+                    @include fontCalcSize(31, 25);
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    right: -25px;
+
+                    @media (max-width: 991px) {
+                        right: -30px;
+                    }
                 }
 
                 &.is--active {
@@ -201,6 +215,16 @@
         display: none;
     }
 
+    @media (max-width: 1199px) {
+        >ul {
+            >li{
+                padding: 0 18px;
+                >a{
+                    @include fontCalcSize(16, 15);
+                }
+            }
+        }
+    }
     @media (max-width: 991px) {
         display: none;
         position: fixed;

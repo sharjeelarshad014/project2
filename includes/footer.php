@@ -5,7 +5,7 @@
 				<div class="row">
 					<div class="col-lg-3">
 						<div class="logo-widget">
-							<a href="/">
+							<a href="/" class="logo">
 								<img src="/junaid1/assets/img/brand/logo.png" alt="">
 							</a>
 							<p>The Scrapps is your go-to destination for all your app development needs. With a team of experienced and innovative developers, we specialize in creating custom mobile applications tailored to your specific requirements. Whether you're looking for a sleek and intuitive user interface, robust functionality, or seamless integration across platforms, The Scrapps delivers top-notch solutions that exceed expectations.</p>

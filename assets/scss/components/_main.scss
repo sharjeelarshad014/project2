@@ -407,20 +407,15 @@ br {
     flex-wrap: wrap;
 
     @media (max-width: 991px) {
+        width: 100%;
         >li {
             flex: 0 0 50%;
             max-width: 50%;
-            padding: 10px 40px;
+            padding: 10px 10px;
+            text-align: center;
+            margin-bottom: 20px;
         }
     }
-
-    @media (max-width: 575px) {
-        >li {
-            flex: 0 0 100%;
-            max-width: 100%;
-        }
-    }
-
 }
 
 .comp-sec {
@@ -666,7 +661,7 @@ br {
     margin: 50px 0;
 
     @media(max-width:991px) {
-        margin: 50px 0;
+        margin: 80px 0;
     }
 }
 
@@ -1975,6 +1970,10 @@ br {
             @include fontCalcSize(14, 12);
             margin: 0;
         }
+
+        @media (max-width: 991px) {
+            text-align: center;
+        }
     }
 }
 
@@ -2069,6 +2068,10 @@ br {
     mix-blend-mode: soft-light;
     @include fontCalcSize(100, 60);
     font-weight: 700;
+
+    @media (max-width: 991px) {
+        margin: 0;
+    }
 }
 
 .tab-group {
@@ -2351,7 +2354,7 @@ br {
                 }
             }
             @media(max-width: 575px){
-                top: 60px;
+                top: 120px;
             }
         }
     }
@@ -2493,15 +2496,19 @@ br {
     text-align: left;
 
     h4 {
-        @include fontCalcSize(24, 16);
+        @include fontCalcSize(28, 20);
         font-weight: 600;
         color: $black;
         margin-bottom: 10px;
     }
 
     p {
-        @include fontCalcSize(14, 12);
+        @include fontCalcSize(19, 16);
         margin: 0;
+    }
+    @media (max-width: 991px) {
+        text-align: center;
+        margin-top: 20px;
     }
 }
 
@@ -2646,5 +2653,9 @@ br {
         display: flex;
         align-items: center;
         border: 12px solid #675ded;
+
+        @media (max-width: 991px) {
+            margin-top: 25px;
+        }
     }
 }

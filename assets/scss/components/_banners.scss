@@ -5,7 +5,8 @@
     height: auto;
     background-image: url(/junaid1/assets/img/bg/home-bg.jpg);
     background-size: cover;
-
+    display: flex;
+    align-items: center;
  
     &-content {
         position: relative;
@@ -14,7 +15,7 @@
         justify-content: center;
         flex-direction: column;
         h1{
-            @include fontCalcSize(60, 34);
+            @include fontCalcSize(60, 32);
             color: $black;
             font-weight: 600;
             line-height: 1.2;
@@ -28,16 +29,17 @@
                 line-height: 1;
                 display: inline-flex;
                 color: $white;
+                @include fontCalcSize(58, 28);
             }
         }
         p {
-            @include fontCalcSize(22, 12);
+            @include fontCalcSize(22, 16);
             font-weight: 400;
             margin: 0 0 25px 0;
             color: $black;
 
             @media(max-width:575px) {
-                font-size: 12px;
+                margin: 0;
             }
         }
         &.sty1{
@@ -66,7 +68,7 @@
 
     @media(max-width:991px) {
         height: auto;
-        padding: 120px 0 70px;
+        padding: 140px 0 70px;
         .banner-img{
             margin: 40px auto 0;
             width: 50%;
@@ -82,7 +84,7 @@
     }
     @media (max-width: 575px) {
         .banner-img{
-            width: 80%;
+            width: 100%;
         }
     }
     &.inner{

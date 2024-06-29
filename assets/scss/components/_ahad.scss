@@ -2,7 +2,8 @@
 		    padding: 20px;
 
 			@media (max-width: 991px) {
-				padding: 20px 0;
+				padding: 15px 20px;
+				background: $white;
 			}
 		}
 
@@ -12,6 +13,7 @@
 		        margin: 25px 0;
 				@media (max-width: 991px) {
 					margin: 5px 0;
+					text-align: center;
 				}
 		    }
 		}
@@ -26,6 +28,7 @@
 		        font-size: 18px;
 		        line-height: 26px;
 		        font-weight: 400;
+				background: transparent;
 
 		        &:focus {
 		            outline: none;
@@ -35,7 +38,6 @@
 		            }
 		        }
 				@media (max-width: 991px) {
-					border-radius: 5px;
 					padding-left: 10px;
 				}
 		    }

@@ -1,4 +1,4 @@
-<link rel="icon" type="image/x-icon" size="16x16" href="/favicon.ico?v=<?php echo "$cversion";?>">
+<link rel="icon" type="image/x-icon" size="16x16" href="/junaid1/favicon.ico?v=<?php echo "$cversion";?>">
 <link rel="preload" href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="/junaid1/assets/css/style.min.css?v=<?php echo "$cversion";?>"/>
 <link rel="stylesheet" type="text/css" href="/junaid1/assets/css/style.min2.css"/>

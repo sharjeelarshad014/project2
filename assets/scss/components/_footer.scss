@@ -12,6 +12,11 @@
     }
 }
 
+.logo-widget {
+    .logo {
+        max-width: 180px;
+    }    
+}
 .sec-footertop {
     background: $black;
     padding: 115px 0 0;

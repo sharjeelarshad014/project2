@@ -15,7 +15,7 @@ customized strategies as per clients' needs. Customer satisfaction fuels us to k
 				</div>
 				<div class="col-lg-6 align-self-center">
 					<div class="row">
-						<div class="col-md-6 col-lg-3">
+						<div class="col-6 col-lg-3">
 							<div class="img-wrap">
 								<i class="fa-solid fa-user-group"></i>
 								<div class="img-caption">
@@ -24,7 +24,7 @@ customized strategies as per clients' needs. Customer satisfaction fuels us to k
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 col-lg-3">
+						<div class="col-6 col-lg-3">
 							<div class="img-wrap">
 								<i class="fa-solid fa-code"></i>
 								<div class="img-caption">
@@ -33,7 +33,7 @@ customized strategies as per clients' needs. Customer satisfaction fuels us to k
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 col-lg-3">
+						<div class="col-6 col-lg-3">
 							<div class="img-wrap">
 								<i class="fa-solid fa-award"></i>
 								<div class="img-caption">
@@ -42,7 +42,7 @@ customized strategies as per clients' needs. Customer satisfaction fuels us to k
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6 col-lg-3">
+						<div class="col-6 col-lg-3">
 							<div class="img-wrap">
 								<i class="fa-solid fa-cloud-arrow-down"></i>
 								<div class="img-caption">
