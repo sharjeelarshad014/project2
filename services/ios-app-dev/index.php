@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Mobile App Development | <?php echo "$brandName";?></title>
+    <title>IOS App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -91,7 +91,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-screwdriver-wrench"></i></span>
                         </div>
                         <h3 class="title">Maintenance</h3>
                         <p class="description">Ongoing maintenance and timely updates are part of our long term developmental services.</p>
@@ -101,7 +101,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-chart-simple"></i></span>
                         </div>
                         <h3 class="title">Periodic Maintenance</h3>
                         <p class="description">Our long-term development services include regular upkeep and updates.</p>
@@ -111,9 +111,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-uikit"></i></span>
                         </div>
-                        <h3 class="title">iOS UI/UX Design</h3>
+                        <h3 class="title">IOS UI/UX Design</h3>
                         <p class="description">We make sure your app's aesthetic and visuals are all well according to the best-in-class practices worldwide.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -121,9 +121,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-apple"></i></span>
                         </div>
-                        <h3 class="title">Custom iOS Application Development</h3>
+                        <h3 class="title">Custom IOS Application Development</h3>
                         <p class="description">Certain apps require customized development, and we specialize in doing more than just what's required.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -131,9 +131,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span<i class="fa-solid fa-microscope"></i></span>
                         </div>
-                        <h3 class="title">iOS Software Testing</h3>
+                        <h3 class="title">IOS Software Testing</h3>
                         <p class="description">Every app is run through rigorous beta and AB testing procedures to filter out bugs and lags.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -141,7 +141,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-network-wired"></i></span>
                         </div>
                         <h3 class="title">Multi-platform Deployment</h3>
                         <p class="description">Apps are deployed on various platforms for maximum traction.</p>

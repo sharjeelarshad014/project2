@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <?php include($_SERVER['DOCUMENT_ROOT']."/junaid1/includes/brand-info.php"); ?>
-    <title>Home | <?php echo "$brandName";?></title>
+    <title>Android App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -86,102 +86,84 @@
 
     <section class="stripe services-sec">
         <div class="container">
-
-
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-mobile"></i></span>
                         </div>
                         <h3 class="title">Mobile App Development</h3>
-                        <p class="description">Our mobile app development services are aimed at providing an intuitive
-                            app specially designed as per clients’ needs. Our team of professional developers has many
-                            years of experience in crafting niche-specific apps.</p>
+                        <p class="description">Our mobile app development services are aimed at providing an intuitive app specially designed as per clients’ needs. Our team of professional developers has many years of experience in crafting niche-specific apps.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-app-store-ios"></i></span>
                         </div>
                         <h3 class="title">IOS App Development</h3>
-                        <p class="description">The iOS app development services at <?php echo"$brandName";?> include attractive UI/UX
-                            designs, implementation, QA, and integration of apps for iOS-supporting devices. Our iOS app
-                            developers are experienced in creating apps for different niches.</p>
+                        <p class="description">The iOS app development services at <?php echo"$brandName";?> include attractive UI/UX designs, implementation, QA, and integration of apps for iOS-supporting devices. Our iOS app developers are experienced in creating apps for different niches.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-app-store-ios"></i></span>
                         </div>
                         <h3 class="title">Android App Development</h3>
-                        <p class="description">Our Android development services comprise of design, development, and
-                            enhancement of mobile apps supported by all Android OS versions. <?php echo"$brandName";?> aims to
-                            provide a seamless experience to clients.</p>
+                        <p class="description">Our Android development services comprise of design, development, and enhancement of mobile apps supported by all Android OS versions. <?php echo"$brandName";?> aims to provide a seamless experience to clients.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-regular fa-thumbs-up"></i></span>
                         </div>
                         <h3 class="title">Mobile App Prototype</h3>
-                        <p class="description">Before delivering the final project, we create a mobile app prototype to
-                            receive suggestions and ideas to improvise the app. Our team of professionals sit with the
-                            client to discuss creative ideas.</p>
+                        <p class="description">Before delivering the final project, we create a mobile app prototype to receive suggestions and ideas to improvise the app. Our team of professionals sit with the client to discuss creative ideas.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-people-group"></i></span>
                         </div>
                         <h3 class="title">MVP App Development</h3>
-                        <p class="description">In our MVP App Development services we deliver you the app with core
-                            functionalities so that you can test it out in your target market and improvements, if any,
-                            can be made.</p>
+                        <p class="description">In our MVP App Development services we deliver you the app with core functionalities so that you can test it out in your target market and improvements, if any, can be made.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-gamepad"></i></span>
                         </div>
                         <h3 class="title">Games App Development</h3>
-                        <p class="description">Today, the gaming industry is one of the most thriving industries in the
-                            technology world. Get your gaming app developed by the best game app development company
-                            worldwide. Book your appointment!</p>
+                        <p class="description">Today, the gaming industry is one of the most thriving industries in the technology world. Get your gaming app developed by the best game app development company worldwide. Book your appointment!</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-bitcoin"></i></span>
                         </div>
                         <h3 class="title">NFT App Development</h3>
-                        <p class="description">The team of developers at <?php echo"$brandName";?> are specialized in developing and
-                            designing NFT app development as per the market standards. We understand the market dynamics
-                            and design NFT apps for clients accordingly.</p>
+                        <p class="description">The team of developers at <?php echo"$brandName";?> are specialized in developing and designing NFT app development as per the market standards. We understand the market dynamics and design NFT apps for clients accordingly.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-laptop-code"></i></span>
                         </div>
                         <h3 class="title">Machine Learning App Development</h3>
-                        <p class="description">The designers at <?php echo"$brandName";?> leave no stone unturned when it comes to
-                            creating apps on the latest technologies such as Machine Learning. We offer comprehensive ML
-                            app development services to satisfy our client's hunger for innovation.</p>
+                        <p class="description">The designers at <?php echo"$brandName";?> leave no stone unturned when it comes to creating apps on the latest technologies such as Machine Learning. We offer comprehensive ML app development services to satisfy our client's hunger for innovation.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>

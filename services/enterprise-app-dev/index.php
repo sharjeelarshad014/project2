@@ -94,9 +94,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-app-store-ios"></i></span>
                         </div>
-                        <h3 class="title">iOS & Mobile Apps</h3>
+                        <h3 class="title">IOS & Mobile Apps</h3>
                         <p class="description">Our developers have years’ worth of experience building apps for iOS and Android operating systems. This means we offer mobile enterprise app development for a range of devices like TVs and smartphones, and iOS app development that complies with Apple's app store.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -104,7 +104,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-mobile-screen-button"></i></span>
                         </div>
                         <h3 class="title">Hybrid Apps</h3>
                         <p class="description">Our team combines web technologies like JavaScript, CSS, and HTML to create a hybrid app that can fit all systems and doesn't require a separate app for each platform.</p>
@@ -114,7 +114,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-regular fa-clock"></i></span>
                         </div>
                         <h3 class="title">Wearable Apps</h3>
                         <p class="description">We can take your wearable devices up a notch. We work with different tech companies, helping them develop wearable apps to give their customers the best user experience.</p>
@@ -124,7 +124,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-uikit"></i></span>
                         </div>
                         <h3 class="title">UI/UX Design</h3>
                         <p class="description">Nothing beats a stellar UX in the age of user experience, especially when it comes to enterprise mobile app development. Businesses need to enhance their mobile presence to interact with brands and deliver exceptional performance. Our developers can adjust your application’s interface and make the necessary changes.</p>
@@ -134,7 +134,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-person-circle-check"></i></span>
                         </div>
                         <h3 class="title">Mobile Consulting</h3>
                         <p class="description">Our mobile consulting services can help you with anything mobile-related. With our help, you can access our extensive knowledge strategies, mobile devices, systems, and architectures.</p>
@@ -144,7 +144,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-desktop"></i></span>
                         </div>
                         <h3 class="title">Legacy System Updating</h3>
                         <p class="description">Have you previously worked with an enterprise mobile app development company and are stuck with the old system? Our developers can enhance your current mobile platform and update it to meet your business needs</p>

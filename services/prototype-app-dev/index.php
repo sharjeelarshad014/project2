@@ -93,7 +93,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-mobile-screen-button"></i></span>
                         </div>
                         <h3 class="title">Custom Mobile App Prototyping</h3>
                         <p class="description">We provide professional mobile app prototype services, helping businesses bring their ideas to life with a feasible prototype that aligns with their requirements.</p>
@@ -103,7 +103,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-gears"></i></span>
                         </div>
                         <h3 class="title">IoT & Wearable App Prototyping</h3>
                         <p class="description">Our team has the expertise to develop prototypes for apps that operate on IoT and wearable devices, catering to businesses seeking to leverage the latest technologies.</p>
@@ -113,7 +113,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-mobile-screen-button"></i></span>
                         </div>
                         <h3 class="title">Android Mobile App Prototype</h3>
                         <p class="description">We design and develop prototypes for mobile apps that run on the Android operating system, ensuring that businesses can test their app ideas on this platform.</p>
@@ -123,9 +123,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-apple"></i></span>
                         </div>
-                        <h3 class="title">iOS App Mockup and Prototype</h3>
+                        <h3 class="title">ISO App Mockup and Prototype</h3>
                         <p class="description">We create mockups and prototypes for iOS apps, catering to businesses seeking to develop apps for the Apple ecosystem.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -133,9 +133,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-app-store"></i></span>
                         </div>
-                        <h3 class="title">iOS & Android mockups</h3>
+                        <h3 class="title">IOS & Android Mockups</h3>
                         <p class="description">Our team can develop mockups for apps that operate on both iOS and Android platforms, helping businesses test their app ideas across multiple operating systems.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -143,7 +143,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-industry"></i></span>
                         </div>
                         <h3 class="title">Industry Specific App prototypes</h3>
                         <p class="description">We specialize in developing prototypes for mobile apps across different industry domains, allowing businesses to test their app ideas in a specific industry context</p>

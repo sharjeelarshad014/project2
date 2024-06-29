@@ -91,7 +91,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-people-arrows"></i></span>
                         </div>
                         <h3 class="title">Wearable Solution Design</h3>
                         <p class="description">We design wearable solutions that are intuitive, user-friendly, and customized to meet the needs of our clients. Our solutions are designed with the latest technologies to deliver an exceptional user experience.</p>
@@ -101,7 +101,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-microchip"></i></span>
                         </div>
                         <h3 class="title">Wearable Device App Development</h3>
                         <p class="description">Our wearable app development services ensure that your apps are optimized for the specific features of wearable devices. We create engaging and interactive apps that help you achieve your business goals.</p>
@@ -111,7 +111,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-server"></i></span>
                         </div>
                         <h3 class="title">Multi-Platform Integration</h3>
                         <p class="description">We understand the importance of multi-platform integration and ensure that your wearable apps seamlessly integrate with other platforms. We develop apps across multiple devices and platforms to deliver a seamless experience.</p>
@@ -121,7 +121,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-android"></i></span>
                         </div>
                         <h3 class="title">Android Wearable App Development</h3>
                         <p class="description">Our Android wearable app development team creates apps optimized for Android wearables. We use the latest Android development tools and technologies to deliver robust and scalable solutions.</p>
@@ -131,9 +131,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-apple"></i></span>
                         </div>
-                        <h3 class="title">iOS Wearable App Development</h3>
+                        <h3 class="title">IOS Wearable App Development</h3>
                         <p class="description">Our iOS wearable app development services help businesses reach a wider audience and engage with their customers on Apple wearables. We create iOS apps that are intuitive, user-friendly, and optimized for Apple devices.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -141,7 +141,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-shapes"></i></span>
                         </div>
                         <h3 class="title">IoT-based Wearable Apps</h3>
                         <p class="description">We develop IOT-based wearable apps that can communicate with other devices and sensors. Our IOT-based wearable apps are designed to improve efficiency, productivity, and safety in various healthcare, logistics, and manufacturing industries</p>

@@ -87,103 +87,84 @@
 
     <section class="stripe services-sec">
         <div class="container">
-
-
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-mobile"></i></span>
+                        </div>
+                        <h3 class="title">Mobile App Development</h3>
+                        <p class="description">Our mobile app development services are aimed at providing an intuitive app specially designed as per clients’ needs. Our team of professional developers has many years of experience in crafting niche-specific apps.</p>
+                        <a href="#" class="read-more">Read More</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="serviceBox">
+                        <div class="service-icon">
+                            <span><i class="fa-brands fa-app-store-ios"></i></span>
+                        </div>
+                        <h3 class="title">IOS App Development</h3>
+                        <p class="description">The iOS app development services at <?php echo"$brandName";?> include attractive UI/UX designs, implementation, QA, and integration of apps for iOS-supporting devices. Our iOS app developers are experienced in creating apps for different niches.</p>
+                        <a href="#" class="read-more">Read More</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="serviceBox">
+                        <div class="service-icon">
+                            <span><i class="fa-brands fa-app-store-ios"></i></span>
                         </div>
                         <h3 class="title">Android App Development</h3>
-                        <p class="description">Among our mobile application development domain, we offer top-tier
-                            services for creating apps for the iOS platform include user interface and user experience
-                            design, development, testing, and deployment. For the past decade, <?php echo"$brandName";?> has helped
-                            businesses of all sizes with their iOS app development needs.</p>
+                        <p class="description">Our Android development services comprise of design, development, and enhancement of mobile apps supported by all Android OS versions. <?php echo"$brandName";?> aims to provide a seamless experience to clients.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
-                        </div>
-                        <h3 class="title">iOS App Development</h3>
-                        <p class="description">We develop highly reliable, cutting-edge, and feature-packed Android
-                            software. Our apps are made to function flawlessly on the latest version of Android while
-                            providing users with a delightful experience.</p>
-                        <a href="#" class="read-more">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="serviceBox">
-                        <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
-                        </div>
-                        <h3 class="title">Android App Development</h3>
-                        <p class="description">Our Android development services comprise of design, development, and
-                            enhancement of mobile apps supported by all Android OS versions. <?php echo"$brandName";?> aims to
-                            provide a seamless experience to clients.</p>
-                        <a href="#" class="read-more">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="serviceBox">
-                        <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-regular fa-thumbs-up"></i></span>
                         </div>
                         <h3 class="title">Mobile App Prototype</h3>
-                        <p class="description">While the team is able to learn more about the customer's business and
-                            its unique processes, our prototypes help the client to gauge the potential of the idea or
-                            startup with minimal investment of time and money.</p>
+                        <p class="description">Before delivering the final project, we create a mobile app prototype to receive suggestions and ideas to improvise the app. Our team of professionals sit with the client to discuss creative ideas.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-people-group"></i></span>
                         </div>
                         <h3 class="title">MVP App Development</h3>
-                        <p class="description">In our MVP App Development services we deliver you the app with core
-                            functionalities so that you can test it out in your target market and improvements, if any,
-                            can be made.</p>
+                        <p class="description">In our MVP App Development services we deliver you the app with core functionalities so that you can test it out in your target market and improvements, if any, can be made.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-gamepad"></i></span>
                         </div>
                         <h3 class="title">Games App Development</h3>
-                        <p class="description">Today, the gaming industry is one of the most thriving industries in the
-                            technology world. Get your gaming app developed by the best game app development company
-                            worldwide. Book your appointment!</p>
+                        <p class="description">Today, the gaming industry is one of the most thriving industries in the technology world. Get your gaming app developed by the best game app development company worldwide. Book your appointment!</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-bitcoin"></i></span>
                         </div>
                         <h3 class="title">NFT App Development</h3>
-                        <p class="description">The team of developers at <?php echo"$brandName";?> are specialized in developing and
-                            designing NFT app development as per the market standards. We understand the market dynamics
-                            and design NFT apps for clients accordingly.</p>
+                        <p class="description">The team of developers at <?php echo"$brandName";?> are specialized in developing and designing NFT app development as per the market standards. We understand the market dynamics and design NFT apps for clients accordingly.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-laptop-code"></i></span>
                         </div>
                         <h3 class="title">Machine Learning App Development</h3>
-                        <p class="description">The designers at <?php echo"$brandName";?> leave no stone unturned when it comes to
-                            creating apps on the latest technologies such as Machine Learning. We offer comprehensive ML
-                            app development services to satisfy our client's hunger for innovation.</p>
+                        <p class="description">The designers at <?php echo"$brandName";?> leave no stone unturned when it comes to creating apps on the latest technologies such as Machine Learning. We offer comprehensive ML app development services to satisfy our client's hunger for innovation.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
                 </div>
@@ -203,8 +184,6 @@
                             <h3 data-aos="fade-right">What To Expect Now?</h3>
                             <p data-aos="fade-right">In Mobile App Development, we harness advanced tools and software to tailor solutions that meet your business imperatives. Our mission is to ensure client satisfaction and empower you to navigate swiftly evolving consumer behaviors and market dynamics. Our team comprises certified mobile application developers with extensive expertise in the engineering sector.</p>
                             <p data-aos="fade-right">As a leading mobile application development firm, we deliver exceptional services to enterprises, startups, organizations, and brands. Our commitment lies in helping businesses extend their market reach, drive revenue growth, and enhance operational efficiency cost-effectively.</p>
-                            <p data-aos="fade-right">We offer comprehensive mobile application development services across iOS, Cross-platform, and Android platforms. Our adept developers will transform your concepts into robust, innovative mobile applications aligned precisely with your business requirements. Renowned for our expertise in mobile application development and customization, we not only create apps but also meticulously monitor, debug, and update them to meet the highest standards of our clients.</p>
-
                         </div>
                     </div>
                     <div class="col-lg-6">

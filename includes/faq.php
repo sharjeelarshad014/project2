@@ -8,7 +8,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-5">
                     <div class="project-img" data-aos="zoom-out-left">
-                        <img src="/junaid1/assets/img/mix/cta-img.avif" alt="">
+                        <img src="/junaid1/assets/img/mix/faq-img.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7">

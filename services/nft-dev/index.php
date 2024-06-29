@@ -90,7 +90,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-coins"></i></span>
                         </div>
                         <h3 class="title">NFT Marketplace Design and Development</h3>
                         <p class="description">Our team specializes in designing and developing NFT marketplaces that are user-centric, utilizing our extensive knowledge of ERC-721 and ERC-1155 standards, smart contracts, and IPFS protocols.</p>
@@ -100,7 +100,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-book-open-reader"></i></span>
                         </div>
                         <h3 class="title">NFT Smart Contract Development and Audit</h3>
                         <p class="description">We also provide NFT smart contract development and audit services to ensure error-free functioning and seamless automation in NFT transactions.</p>
@@ -110,7 +110,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-info"></i></span>
                         </div>
                         <h3 class="title">NFT Marketplace Support and Maintenance</h3>
                         <p class="description">To ensure that your NFT marketplace remains operational and up-to-date, we offer continuous support and maintenance services, including monitoring and managing third-party upgrades, and new operating system releases, and ensuring nodes are consistently functional.</p>
@@ -120,7 +120,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-code"></i></span>
                         </div>
                         <h3 class="title">NFT Development</h3>
                         <p class="description">We create and issue non-fungible tokens (NFTs) that are verified on a blockchain network. This service includes the tokenization of assets, the creation of smart contracts, and the deployment of NFT marketplaces.</p>
@@ -130,7 +130,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-link"></i></span>
                         </div>
                         <h3 class="title">Blockchain Technology Consulting</h3>
                         <p class="description">We focus on providing expert guidance and advice to clients who are interested in exploring the potential applications of blockchain technology for their businesses.</p>
@@ -140,7 +140,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-webflow"></i></span>
                         </div>
                         <h3 class="title">Web3 Solutions</h3>
                         <p class="description"><?php echo"$brandName";?>'s NFT development team offers Web3 solutions that enable clients to leverage this technology to develop innovative and decentralized applications that can be used in a wide range of industries</p>

@@ -30,12 +30,12 @@
 	<section class="stripe-3">
 		<div class="container">
 			<div class="row justify-content-between">
-				<div class="col-lg-3">
+				<div class="col-lg-6 align-self-center">
 					<div class="image-wrap">
 						<img src="/junaid1/assets/img/mix/contact-form-img.png" alt="">
 					</div>
 				</div>
-				<div class="col-lg-7 align-self-center">
+				<div class="col-lg-6 align-self-center">
 						<div class="slide-wrap get-in-touch">
 							<h3 class="mb-0">Get In Touch</h3>
 							<p class="cl-iPrimary mb-2"><strong>Send A Message!</strong></p>

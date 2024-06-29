@@ -94,7 +94,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-react"></i></span>
                         </div>
                         <h3 class="title">React Native App Ideation & Consulting</h3>
                         <p class="description">Our React Native app development firm collaborates with you to comprehend your product vision and identify how best React Native can align with your business objectives.</p>
@@ -104,7 +104,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-node-js"></i></span>
                         </div>
                         <h3 class="title">App Development With React Native</h3>
                         <p class="description">Our all-inclusive React Native mobile app development process is tailored to address your end-to-end development requirements. We cover all aspects of the development, from design to testing, ensuring that your product sets the benchmark for high app performance.</p>
@@ -114,7 +114,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-node"></i></span>
                         </div>
                         <h3 class="title">React Native Migration</h3>
                         <p class="description">We assist you in migrating your existing iOS or Android app to a React Native app with our migration expertise, ensuring that your app's performance remains seamless as we expand it to other mobile platforms, the web, and smart devices.</p>
@@ -124,7 +124,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-js"></i></span>
                         </div>
                         <h3 class="title">React Native Support & Maintenance</h3>
                         <p class="description">Our React Native app developers acknowledge the significance of continuous upgrades and provide comprehensive support and maintenance long after the app's deployment.</p>
@@ -134,9 +134,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-mobile-screen"></i></span>
                         </div>
-                        <h3 class="title">React Native iOS and Android Applications</h3>
+                        <h3 class="title">React Native IOS and Android Applications</h3>
                         <p class="description">Our React Native development is an excellent choice for apps that heavily depend on the user interface. With minimal effort, we can ensure the UI works seamlessly on both iOS and Android platforms.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -144,7 +144,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-signal"></i></span>
                         </div>
                         <h3 class="title">Integration Services</h3>
                         <p class="description">Our integration service involves the incorporation of third-party tools, APIs, and software modules into a React Native app to enhance its functionality and performance</p>

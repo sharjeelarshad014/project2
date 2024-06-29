@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="banner-img">
-                <img src="/junaid1/assets/img/bg/portfolio-banner-img.jpg" alt="">
+                <img src="/junaid1/assets/img/bg/banner-mob.avif" alt="">
             </div>
         </div>
     </div>

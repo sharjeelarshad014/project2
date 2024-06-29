@@ -90,7 +90,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-solid fa-folder-tree"></i></span>
                         </div>
                         <h3 class="title">Hybrid Application Consultation and Architecture</h3>
                         <p class="description">Our team of experts provides consulting services to help you understand the benefits and potential of hybrid mobile app development. We assist in designing an architecture that will support your business objectives.</p>
@@ -100,7 +100,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-regular fa-object-ungroup"></i></span>
                         </div>
                         <h3 class="title">Hybrid Application Design</h3>
                         <p class="description">We create visually appealing and user-friendly hybrid application designs that align with our clients' branding and user experience goals.</p>
@@ -110,7 +110,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-regular fa-thumbs-up"></i></span>
                         </div>
                         <h3 class="title">Hybrid Application Development</h3>
                         <p class="description">Our experienced hybrid app developers use the latest technologies to develop high-quality hybrid mobile applications that are scalable, robust, and responsive. Contact us today for more details on hybrid app development.</p>
@@ -130,7 +130,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-regular fa-star"></i></span>
                         </div>
                         <h3 class="title">Hybrid Application Quality Assurance</h3>
                         <p class="description">We conduct rigorous testing to ensure the performance, functionality, and security of your hybrid applications.</p>
@@ -140,7 +140,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-screwdriver-wrench"></i></span>
                         </div>
                         <h3 class="title">Hybrid Application Support, Maintenance, and Optimization</h3>
                         <p class="description">Our team provides ongoing support and maintenance services to ensure that your hybrid applications run smoothly and optimally. We also optimize the applications for better performance and user experience and implement new features and updates as needed</p>

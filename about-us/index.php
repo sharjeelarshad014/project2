@@ -66,7 +66,7 @@
                         <div class="blog-inner">
                             <div class="blog-slider__item">
                                 <div class="blog-slider__img">
-                                    <img alt="Design" class="finbyz-zoomin" src="https://finbyz.tech/files/design.svg"
+                                    <img alt="Design" class="finbyz-zoomin" src="/junaid1/assets/img/icons/our-mission.png"
                                         title="Design">
                                 </div>
                                 <div class="blog-slider__content">
@@ -82,7 +82,7 @@
                         <div class="blog-inner">
                             <div class="blog-slider__item">
                                 <div class="blog-slider__img">
-                                    <img alt="Design" class="finbyz-zoomin" src="https://finbyz.tech/files/design.svg"
+                                    <img alt="Design" class="finbyz-zoomin" src="/junaid1/assets/img/icons/our-vision.png"
                                         title="Design">
                                 </div>
                                 <div class="blog-slider__content">

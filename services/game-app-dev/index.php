@@ -94,7 +94,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-html5"></i></span>
                         </div>
                         <h3 class="title">HTML5 Game Development</h3>
                         <p class="description">Maintenance is essential to ensure our gaming app works well across all platforms, including PC. Let our gaming development company upgrade your system with the latest tools to ensure our games perform well.</p>
@@ -104,9 +104,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-app-store-ios"></i></span>
                         </div>
-                        <h3 class="title">iOS Game Development</h3>
+                        <h3 class="title">IOS Game Development</h3>
                         <p class="description">Our iOS game developers make sure your game is visually appealing, aesthetically pleasing, and according to industry practices. We have the right expertise and knowledge in handling the latest iOS tools and technologies, and deliver out-of-this-world gaming apps that are high on performance and rich in graphics.</p>
                         <a href="#" class="read-more">Read More</a>
                     </div>
@@ -114,7 +114,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-globe"></i></span>
+                            <span><i class="fa-brands fa-google-play"></i></span>
                         </div>
                         <h3 class="title">Android Game Development</h3>
                         <p class="description">Our android game developers specialize in delivering reliable, scalable, and robust games for Android users. Our developers are highly certified and can develop flawless gaming applications to enhance your experience as a player.</p>
@@ -124,7 +124,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-gamepad"></i></span>
                         </div>
                         <h3 class="title">Unity Mobile Game Development</h3>
                         <p class="description">Nothing beats the functionality and features of Unity when it comes to mobile game development. Our team ensures to create a gaming engine that offers a plethora of options for users on various platforms.</p>
@@ -134,7 +134,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-solid fa-layer-group"></i></span>
                         </div>
                         <h3 class="title">Cross-Platform Game Development</h3>
                         <p class="description"><?php echo"$brandName";?> maintains a complete code structure because of their expertise in cross-platform game development. We reduce time and development costs by covering all aspects of cross-platform gaming.</p>
@@ -144,7 +144,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="serviceBox">
                         <div class="service-icon">
-                            <span><i class="fa fa-rocket"></i></span>
+                            <span><i class="fa-brands fa-unity"></i></span>
                         </div>
                         <h3 class="title">2D and 3D Game Development</h3>
                         <p class="description">Our game developers excel in 2D and 3D game development for both iOS and Android platforms</p>
